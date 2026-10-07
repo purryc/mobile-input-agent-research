@@ -1,0 +1,105 @@
+﻿entity_id,canonical_name,source,source_location,source_category,source_declared_count,source_inventory_cells,depth,evidence_level,url,visual_local,source_specific_note
+ENT-remotemouse,Remote Mouse,Claude v3,V3-P10,A 手机作 PC 遥控,42,63,deep,preserved source analysis,,assets/evidence/spatial-grid.jpg,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-unifiedremote,Unified Remote,Claude v3,V3-P10,A 手机作 PC 遥控,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-wifimouse,WiFi Mouse,Claude v3,V3-P10,A 手机作 PC 遥控,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-kdeconnect,KDE Connect,Claude v3,V3-P10,A 手机作 PC 遥控,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-remoteapp(leanstring),Remote App (leanstring),Claude v3,V3-P10,A 手机作 PC 遥控,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-tracepad/magicinput(ios),Tracepad / Magic Input (iOS),Claude v3,V3-P10,A 手机作 PC 遥控,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-blek/bluetoothkeyboard,Blek / Bluetooth Keyboard,Claude v3,V3-P10,A 手机作 PC 遥控,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-serverlessbluetoothkbd,Serverless Bluetooth Kbd,Claude v3,V3-P10,A 手机作 PC 遥控,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-monectpcremote,Monect PC Remote,Claude v3,V3-P10,A 手机作 PC 遥控,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-appleuniversalcontrol,Apple Universal Control,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-applesidecar,Apple Sidecar,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-applecontinuity/handoff,Apple Continuity / Handoff,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-samsungdex,Samsung DeX,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-samsungmulticontrol,Samsung Multi Control,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-华为多屏协同,华为多屏协同,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-华为超级终端,华为超级终端,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-华为远程pc,华为远程 PC,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-华为中转站/一碰传,华为中转站 / 一碰传,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-microsoftphonelink,Microsoft Phone Link,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-intelunison,Intel Unison（已关停）,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-荣耀互联/magicring,荣耀互联 / MagicRing,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-小米hyperconnect/妙享,小米 HyperConnect / 妙享,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-oppo互联/vivo互传,OPPO 互联 / vivo 互传,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-duetdisplay,Duet Display,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-spacedesk,spacedesk,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-lunadisplay/astropad,Luna Display / Astropad,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-deskreen,Deskreen,Claude v3,V3-P10,B 跨设备协同 / 第二屏,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-streamdeck,Elgato Stream Deck（硬件）,Claude v3,V3-P10,C 专业控制器,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-streamdeckmobile,Stream Deck Mobile,Claude v3,V3-P10,C 专业控制器,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-virtualstreamdeck,Virtual Stream Deck,Claude v3,V3-P10,C 专业控制器,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-touchportal,Touch Portal,Claude v3,V3-P10,C 专业控制器,42,63,deep,preserved source analysis,,assets/evidence/deck-grid.jpg,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-loupedeck,Loupedeck（已停售）,Claude v3,V3-P10,C 专业控制器,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-tourbox,TourBox,Claude v3,V3-P10,C 专业控制器,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-davincispeededitor,DaVinci Speed Editor,Claude v3,V3-P10,C 专业控制器,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-wacomexpresskeyremote,Wacom ExpressKey Remote,Claude v3,V3-P10,C 专业控制器,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-mxcreativeconsole,Logitech MX Creative Console,Claude v3,V3-P10,C 专业控制器,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-touchosc/lemur,TouchOSC / Lemur,Claude v3,V3-P10,C 专业控制器,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-obswebsocket生态,OBS WebSocket 生态,Claude v3,V3-P10,C 专业控制器,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-macrodeck,Macro Deck,Claude v3,V3-P10,C 专业控制器,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-keynoteremote,Keynote Remote,Claude v3,V3-P10,D 大屏 / 演示控制,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-powerpoint移动遥控/presenterview,PowerPoint 移动遥控 / Presenter View,Claude v3,V3-P10,D 大屏 / 演示控制,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-googleslidesremote,Google Slides Remote,Claude v3,V3-P10,D 大屏 / 演示控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-spotlight等翻页笔,Logitech Spotlight 等翻页笔,Claude v3,V3-P10,D 大屏 / 演示控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-clicker(ios第三方),Clicker (iOS 第三方),Claude v3,V3-P10,D 大屏 / 演示控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-会议室控制面板/无线投屏器,会议室控制面板 / 无线投屏器,Claude v3,V3-P10,D 大屏 / 演示控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-googletv手机遥控app,Google TV 手机遥控 App,Claude v3,V3-P10,E 设备初始化 / 备用输入,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-appletvremote（控制中心）,Apple TV Remote（控制中心）,Claude v3,V3-P10,E 设备初始化 / 备用输入,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-xbox/playstationapp,Xbox / PlayStation App,Claude v3,V3-P10,E 设备初始化 / 备用输入,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-华为智慧生活app,华为智慧生活 App,Claude v3,V3-P10,E 设备初始化 / 备用输入,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-路由器/智能家居配网,路由器 / 智能家居配网,Claude v3,V3-P10,E 设备初始化 / 备用输入,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-ar/vr首次配对,AR/VR 首次配对,Claude v3,V3-P10,E 设备初始化 / 备用输入,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-microsoftcopilot,Microsoft Copilot,Claude v3,V3-P10,F AI / 语义控制,42,63,deep,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-小艺/鸿蒙agent架构,小艺 / 鸿蒙 Agent 架构,Claude v3,V3-P10,F AI / 语义控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-appleintelligence/gemini,Apple Intelligence / Gemini,Claude v3,V3-P10,F AI / 语义控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-raycast/alfred命令面板,Raycast / Alfred 命令面板,Claude v3,V3-P10,F AI / 语义控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-mcp/a2a生态,MCP / A2A 生态,Claude v3,V3-P10,F AI / 语义控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-windowsvoiceaccess,Windows Voice Access,Claude v3,V3-P10,F AI / 语义控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-computeruseagent（osworld）,computer-use agent（OSWorld）,Claude v3,V3-P10,F AI / 语义控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-rpa（uipath等）,RPA（UiPath 等）,Claude v3,V3-P10,F AI / 语义控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-officescripts/powerautomate,Office Scripts / Power Automate,Claude v3,V3-P10,F AI / 语义控制,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-chromeremotedesktop,Chrome Remote Desktop,Claude v3,V3-P10,G 远程,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-microsoftremotedesktop,Microsoft Remote Desktop,Claude v3,V3-P10,G 远程,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-todesk/向日葵,ToDesk / 向日葵,Claude v3,V3-P10,G 远程,42,63,scan,preserved source analysis,,,保留 Claude v3 原始清单项；原报告宣称 42 项。
+ENT-codexmicro,Codex Micro,Agent Keyboard,AK-S01,专用硬件与实体控制器,20,20,landscape,official/community mixed,https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder,assets/evidence/agent-hardware-grid.jpg,保留 Agent Keyboard slide 1 产品判断。
+ENT-figmacreatormicro,Figma Creator Micro,Agent Keyboard,AK-S01,专用硬件与实体控制器,20,20,landscape,official/community mixed,https://www.figma.com/blog/figma-work-louder-custom-keyboard/,assets/evidence/agent-hardware-grid.jpg,保留 Agent Keyboard slide 1 产品判断。
+ENT-ahakeyx1,AhaKey-X1,Agent Keyboard,AK-S01,专用硬件与实体控制器,20,20,landscape,official/community mixed,https://ahakey.com/,assets/evidence/agent-hardware-grid.jpg,保留 Agent Keyboard slide 1 产品判断。
+ENT-vibekeys,VibeKeys,Agent Keyboard,AK-S01,专用硬件与实体控制器,20,20,landscape,official/community mixed,https://vibekeys.dev/,assets/evidence/agent-hardware-grid.jpg,保留 Agent Keyboard slide 1 产品判断。
+ENT-creatormicro2,Creator Micro 2,Agent Keyboard,AK-S01,专用硬件与实体控制器,20,20,landscape,official/community mixed,https://worklouder.cc/creator-micro-2,,保留 Agent Keyboard slide 1 产品判断。
+ENT-streamdeck,Stream Deck +,Agent Keyboard,AK-S01,专用硬件与实体控制器,20,20,landscape,official/community mixed,https://www.elgato.com/us/en/p/stream-deck-plus,assets/evidence/deck-grid.jpg,保留 Agent Keyboard slide 1 产品判断。
+ENT-mxcreativeconsole,MX Creative Console,Agent Keyboard,AK-S01,专用硬件与实体控制器,20,20,landscape,official/community mixed,https://www.logitech.com/en-us/shop/p/buy-mx-creative-console.920-012660,assets/evidence/edit-controller-grid.jpg,保留 Agent Keyboard slide 1 产品判断。
+ENT-tourbox,TourBox Elite,Agent Keyboard,AK-S01,专用硬件与实体控制器,20,20,landscape,official/community mixed,https://www.tourboxtech.com/en/news/tourbox-elite-buying-guide.html,assets/evidence/edit-controller-grid.jpg,保留 Agent Keyboard slide 1 产品判断。
+ENT-codexremote,Codex Remote,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://openai.com/index/work-with-codex-from-anywhere/,,保留 Agent Keyboard slide 1 产品判断。
+ENT-ccpocket,CC Pocket,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://github.com/K9i-0/ccpocket,,保留 Agent Keyboard slide 1 产品判断。
+ENT-openremote,OpenRemote,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://www.tryopenremote.com/,,保留 Agent Keyboard slide 1 产品判断。
+ENT-omnara,Omnara,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://www.omnara.co/,,保留 Agent Keyboard slide 1 产品判断。
+ENT-yepanywhere,Yep Anywhere,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://github.com/kzahel/yepanywhere,,保留 Agent Keyboard slide 1 产品判断。
+ENT-happy,Happy,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://github.com/slopus/happy,,保留 Agent Keyboard slide 1 产品判断。
+ENT-paseo,Paseo,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://github.com/getpaseo/paseo,,保留 Agent Keyboard slide 1 产品判断。
+ENT-codeman,Codeman,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://github.com/Ark0N/Codeman,,保留 Agent Keyboard slide 1 产品判断。
+ENT-vicoa,Vicoa,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://vicoa.ai/docs/getting-started,,保留 Agent Keyboard slide 1 产品判断。
+ENT-tacticremote,Tactic Remote,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://www.clauderc.com/,,保留 Agent Keyboard slide 1 产品判断。
+ENT-agentofempires,Agent of Empires,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://github.com/njbrake/agent-of-empires,,保留 Agent Keyboard slide 1 产品判断。
+ENT-githubmobileagenthq,GitHub Mobile Agent HQ,Agent Keyboard,AK-S01,移动 Agent 客户端,20,20,landscape,official/community mixed,https://github.blog/changelog/2026-02-04-claude-and-codex-are-now-available-in-public-preview-on-github/,,保留 Agent Keyboard slide 1 产品判断。
+ENT-typeless,Typeless,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://play.google.com/store/apps/details?id=com.typeless.mobile,assets/evidence/voice-grid.jpg,保留 Agent Keyboard slide 2 产品判断。
+ENT-wisprflow,Wispr Flow,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://wisprflow.ai/,assets/evidence/voice-grid.jpg,保留 Agent Keyboard slide 2 产品判断。
+ENT-willowvoice,Willow Voice,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://willowvoice.com/,,保留 Agent Keyboard slide 2 产品判断。
+ENT-superwhisper,Superwhisper,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://superwhisper.com/docs/get-started/introduction,,保留 Agent Keyboard slide 2 产品判断。
+ENT-aquavoice,Aqua Voice,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://aquavoice.com/guide,,保留 Agent Keyboard slide 2 产品判断。
+ENT-macwhisper,MacWhisper,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://www.macwhisper.com/,,保留 Agent Keyboard slide 2 产品判断。
+ENT-voiceink,VoiceInk,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://github.com/Beingpax/VoiceInk,assets/evidence/voice-grid.jpg,保留 Agent Keyboard slide 2 产品判断。
+ENT-handy,Handy,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://github.com/cjpais/Handy,,保留 Agent Keyboard slide 2 产品判断。
+ENT-opentypeless,OpenTypeless,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://www.opentypeless.com/,,保留 Agent Keyboard slide 2 产品判断。
+ENT-aiedgeeloquent,AI Edge Eloquent,Agent Keyboard,AK-S02,AI 语音输入,21,21,landscape,official/community mixed,https://github.com/google-ai-edge/ai-edge-eloquent,,保留 Agent Keyboard slide 2 产品判断。
+ENT-remotemouse,Remote Mouse,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://www.remotemouse.net/,assets/evidence/spatial-grid.jpg,保留 Agent Keyboard slide 2 产品判断。
+ENT-mobilemouse,Mobile Mouse,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://mobilemouse.com/,,保留 Agent Keyboard slide 2 产品判断。
+ENT-airmouse,AirMouse,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://airmouse.avinashhq.com/,,保留 Agent Keyboard slide 2 产品判断。
+ENT-touchportal,Touch Portal,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://touchportal.com/,assets/evidence/deck-grid.jpg,保留 Agent Keyboard slide 2 产品判断。
+ENT-macrodeck,Macro Deck,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://github.com/Macro-Deck-App,,保留 Agent Keyboard slide 2 产品判断。
+ENT-mousedroid,Mousedroid,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://github.com/darusc/Mousedroid,,保留 Agent Keyboard slide 2 产品判断。
+ENT-keymapper,Key Mapper,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://github.com/keymapperorg/KeyMapper,,保留 Agent Keyboard slide 2 产品判断。
+ENT-unifiedremote,Unified Remote,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://www.unifiedremote.com/,,保留 Agent Keyboard slide 2 产品判断。
+ENT-portalpad,PortalPad,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://www.reddit.com/r/Xreal/comments/1uef8it/portalpad_trackpad_remote_for_external_displays/,,保留 Agent Keyboard slide 2 产品判断。
+ENT-phonedeck,phone-deck,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://www.reddit.com/r/hyprland/comments/1urc2sj/i_turned_a_spare_phone_into_a_control_deck_remote/,,保留 Agent Keyboard slide 2 产品判断。
+ENT-virtualgamepad,VirtualGamePad,Agent Keyboard,AK-S02,远程指向与可编程控制,21,21,landscape,official/community mixed,https://github.com/MarshallOfSound/VirtualGamePad,,保留 Agent Keyboard slide 2 产品判断。

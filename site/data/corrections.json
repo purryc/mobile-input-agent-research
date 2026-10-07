@@ -1,0 +1,86 @@
+[
+  {
+    "topic": "Codex Micro",
+    "old": "旧稿公开原型",
+    "current": "当前官方页提供售卖信息与功能；缺货不等于从未发布",
+    "source": "MICRO"
+  },
+  {
+    "topic": "S1",
+    "old": "PTT",
+    "current": "原文为点击切换听写，不写成按住说",
+    "source": "M1"
+  },
+  {
+    "topic": "S2",
+    "old": "Agent 状态宏键",
+    "current": "原文为普通ESP32-C3制作，不证明Agent集成",
+    "source": "M2"
+  },
+  {
+    "topic": "S3",
+    "old": "鼠标拇指/滚轮PTT",
+    "current": "主帖核心为演示器改键和语音触发摩擦",
+    "source": "M3"
+  },
+  {
+    "topic": "S4",
+    "old": "已使用的状态键",
+    "current": "概念征询，候选功能不当实测",
+    "source": "M4"
+  },
+  {
+    "topic": "S6",
+    "old": "审批/答题/审阅频次",
+    "current": "需求贴与工具推荐，不作控件频次证据",
+    "source": "M6"
+  },
+  {
+    "topic": "S7",
+    "old": "PC游戏D-pad/A-B",
+    "current": "Android外接屏控制，不外推PC Agent或游戏布局",
+    "source": "M7"
+  },
+  {
+    "topic": "安全确认",
+    "old": "手机独占与天然安全",
+    "current": "支持设备与完整校验链路才成立；不保证额外保密",
+    "source": "PROTECTED"
+  },
+  {
+    "topic": "VIOLOOP",
+    "old": "纯HDMI/HID无需软件",
+    "current": "companion必需，API/文件/无障碍路径并存；众筹承诺不作交付证明",
+    "source": "VIO_QA"
+  },
+  {
+    "topic": "Muse",
+    "old": "开源硬件=开放商业接入",
+    "current": "代码开放与Token商业服务许可分开",
+    "source": "MUSE_TERMS"
+  },
+  {
+    "topic": "状态 / 通知 / 决策",
+    "old": "按顺序重叠描述，容易把收到提醒当作必经阶段",
+    "current": "区分信息、注意通道和决策动作；通知按需触发",
+    "source": "LOCAL"
+  },
+  {
+    "topic": "Apple View Annotations",
+    "old": "唯一 OS 级；在中国不可用",
+    "current": "删除排他性判断；开发者实体与视图绑定、API版本、Siri AI地区资格分别判断",
+    "source": "VIEW_CONTEXT"
+  },
+  {
+    "topic": "Googlebook",
+    "old": "本轮新增线索",
+    "current": "2026-09-21官方公告；四项能力分别定位，上架时间为公告，不冒称到货实测",
+    "source": "GOOGLEBOOK"
+  },
+  {
+    "topic": "VirtualGamePad 项目身份",
+    "old": "旧材料使用 MarshallOfSound/VirtualGamePad 链接；本轮访问返回404。",
+    "current": "新配图与用法明确归属 kitswas/VirtualGamePad。未证实二者关系，不把新项目当作旧项目更名，历史索引原记录保留。",
+    "source": "HV_VGP"
+  }
+]

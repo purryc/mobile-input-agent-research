@@ -1,0 +1,191 @@
+[
+  {
+    "name": "codex-micro",
+    "sourceUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&strip=all&crop=2.4752475247525%2C0%2C95.049504950495%2C100&w=1200",
+    "localPath": "assets/codex-micro.png",
+    "originalWidth": 1199,
+    "originalHeight": 800,
+    "width": 1200,
+    "height": 720
+  },
+  {
+    "name": "vibekeys",
+    "sourceUrl": "https://vibekeys.dev/media/vibekeys-max-02-169.jpg",
+    "localPath": "assets/vibekeys.png",
+    "originalWidth": 3761,
+    "originalHeight": 2115,
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "name": "ccpocket",
+    "sourceUrl": "https://raw.githubusercontent.com/K9i-0/ccpocket/main/docs/images/screenshots.png",
+    "localPath": "assets/ccpocket.png",
+    "originalWidth": 1200,
+    "originalHeight": 652,
+    "width": 1200,
+    "height": 720
+  },
+  {
+    "name": "happy",
+    "sourceUrl": "https://raw.githubusercontent.com/slopus/happy/main/.github/header.png",
+    "localPath": "assets/happy.png",
+    "originalWidth": 5178,
+    "originalHeight": 2364,
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "name": "typeless",
+    "sourceUrl": "https://play-lh.googleusercontent.com/7FABmGdO1yXPZZbUDQMh_-Gk0NGIviD1f1eMhwjAk2cwZIQYLnZWbVeZG7NDOr_aM5eOUIxEKyB5iid5tv8_=w1052-h592",
+    "localPath": "assets/typeless.png",
+    "originalWidth": 273,
+    "originalHeight": 592,
+    "width": 640,
+    "height": 900
+  },
+  {
+    "name": "voiceink",
+    "sourceUrl": "https://github.com/user-attachments/assets/12367379-83e7-48a6-b52c-4488a6a04bba",
+    "localPath": "assets/voiceink.png",
+    "originalWidth": 4688,
+    "originalHeight": 2636,
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "name": "remote-mouse",
+    "sourceUrl": "https://www.remotemouse.net/public/img/rm-feature1.png",
+    "localPath": "assets/remote-mouse.png",
+    "originalWidth": 1720,
+    "originalHeight": 1520,
+    "width": 900,
+    "height": 760
+  },
+  {
+    "name": "touchportal",
+    "sourceUrl": "https://touchportal.com/images/teaser_main_v2.webp",
+    "localPath": "assets/touchportal.png",
+    "originalWidth": 720,
+    "originalHeight": 363,
+    "width": 1200,
+    "height": 675
+  },
+  {
+    "name": "walktalk",
+    "sourceUrl": "https://cdn.uploads.micro.blog/137490/2025/b388258f45.png",
+    "localPath": "assets/walktalk.png",
+    "originalWidth": 3024,
+    "originalHeight": 3024,
+    "width": 900,
+    "height": 900
+  },
+  {
+    "name": "diy-macro",
+    "sourceUrl": "https://hackster.imgix.net/uploads/attachments/1884448/_r5AG4c5L9y.blob?auto=compress&w=900&h=675&fit=min&fm=jpg",
+    "localPath": "assets/diy-macro.png",
+    "originalWidth": 900,
+    "originalHeight": 675,
+    "width": 900,
+    "height": 675
+  },
+  {
+    "name": "portrait-agent-trackpad-ui",
+    "sourceUrl": "imagegen://exec-e41bfa4f-a7cb-4f3c-aa71-05e54e77888b",
+    "localPath": "assets/portrait-agent-trackpad-ui.png",
+    "originalWidth": 863,
+    "originalHeight": 1823,
+    "width": 863,
+    "height": 1823
+  },
+  {
+    "name": "portrait-agent-air-ui",
+    "sourceUrl": "imagegen://exec-02ddd970-21fd-4dc9-8cd7-a21e502868bb",
+    "localPath": "assets/portrait-agent-air-ui.png",
+    "originalWidth": 863,
+    "originalHeight": 1822,
+    "width": 863,
+    "height": 1822
+  },
+  {
+    "name": "portrait-agent-app-ui",
+    "sourceUrl": "imagegen://exec-cc2f82c6-0c8c-4a8a-97b5-e5bb73eb6319",
+    "localPath": "assets/portrait-agent-app-ui.png",
+    "originalWidth": 863,
+    "originalHeight": 1822,
+    "width": 863,
+    "height": 1822
+  },
+  {
+    "name": "portrait-agent-air-imu-ui",
+    "sourceUrl": "imagegen://exec-556928c5-5a4f-4849-9f94-e54d6763d261",
+    "localPath": "assets/portrait-agent-air-imu-ui.png",
+    "originalWidth": 898,
+    "originalHeight": 1752,
+    "width": 898,
+    "height": 1752
+  },
+  {
+    "name": "landscape-agent-fc-ui",
+    "sourceUrl": "imagegen://exec-ba4b1365-f1f3-44f3-bec1-cc968b8357ab",
+    "localPath": "assets/landscape-agent-fc-ui.png",
+    "originalWidth": 1846,
+    "originalHeight": 852,
+    "width": 1846,
+    "height": 852
+  },
+  {
+    "name": "scene-air-imu-lineart",
+    "sourceUrl": "imagegen://exec-9d5bd084-369e-4890-a67a-a25947fe0930",
+    "localPath": "assets/scene-air-imu-lineart.png",
+    "originalWidth": 1672,
+    "originalHeight": 941,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "name": "scene-trackpad-lineart",
+    "sourceUrl": "imagegen://exec-e853302a-af92-4e35-9091-c3d883195d81",
+    "localPath": "assets/scene-trackpad-lineart.png",
+    "originalWidth": 1672,
+    "originalHeight": 941,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "name": "scene-fc-lineart",
+    "sourceUrl": "imagegen://exec-f2d36f60-d65d-49b3-8220-fff344831c3f",
+    "localPath": "assets/scene-fc-lineart.png",
+    "originalWidth": 1672,
+    "originalHeight": 941,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "name": "portrait-agent-shortcut-deck-ui",
+    "sourceUrl": "imagegen://exec-2deef1fe-3b8b-4398-bb63-6c1c86825268",
+    "localPath": "assets/portrait-agent-shortcut-deck-ui.png",
+    "originalWidth": 803,
+    "originalHeight": 1959,
+    "width": 803,
+    "height": 1959
+  },
+  {
+    "name": "scene-handheld-shortcut-lineart",
+    "sourceUrl": "imagegen://exec-2abbd773-e886-4a94-bafc-8d0220336901",
+    "localPath": "assets/scene-handheld-shortcut-lineart.png",
+    "originalWidth": 1672,
+    "originalHeight": 941,
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "name": "scene-handheld-voice-shortcut-lineart",
+    "sourceUrl": "imagegen://exec-c36bcd86-8b3a-4789-bf60-acac14b43b92",
+    "localPath": "assets/scene-handheld-voice-shortcut-lineart.png",
+    "originalWidth": 1672,
+    "originalHeight": 941,
+    "width": 1672,
+    "height": 941
+  }
+]

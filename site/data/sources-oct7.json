@@ -1,0 +1,142 @@
+[
+  {
+    "key": "huawei-fold",
+    "title": "Huawei MateBook Fold current scenario page",
+    "url": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-fold-ultimate-design/",
+    "evidence": "Official marketing; 2026 X90 Plus, feature-specific footnotes",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "huawei-game",
+    "title": "Huawei game mapping support",
+    "url": "https://consumer.huawei.com/cn/support/content/zh-cn16073421/",
+    "evidence": "Official support; X90 Plus exclusion, legacy version requirements",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "huawei-wechat",
+    "title": "Huawei app-clone support",
+    "url": "https://consumer.huawei.com/cn/support/content/zh-cn16057159/",
+    "evidence": "Official support; app listing does not establish feature parity",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "huawei-pro-s",
+    "title": "Huawei MateBook Pro S",
+    "url": "https://consumer.huawei.com/cn/harmonyos-computer/matebook-pro-s/",
+    "evidence": "Official product; physical-keyboard notebook",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "huawei-station",
+    "title": "Huawei MateStation S",
+    "url": "https://consumer.huawei.com/cl/desktops/matestation-s/",
+    "evidence": "Official historical international desktop image; not HarmonyOS Fold evidence",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "wps1",
+    "title": "WPS dual-screen presentation article",
+    "url": "https://plus.wps.cn/blog/p119734.html",
+    "evidence": "2026-07-14; AI-assisted official blog, not a tested feature manual",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "wps2",
+    "title": "WPS dual-screen presentation article 2",
+    "url": "https://plus.wps.cn/blog/p119736.html",
+    "evidence": "2026-07-14; AI-assisted official blog",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "workbuddy-cn",
+    "title": "WorkBuddy China download / platform page",
+    "url": "https://www.workbuddy.cn/",
+    "evidence": "Browser-read; HarmonyOS PC explicitly listed separately from phone",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "workbuddy-office",
+    "title": "Tencent WorkBuddy co-editing announcement",
+    "url": "https://view.inews.qq.com/a/20260730A05NPU00",
+    "evidence": "2026-07-30 V5.3.5; article and covers read, embedded recordings not reliably playable",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "apple102",
+    "title": "WWDC 2026 session 102",
+    "url": "https://developer.apple.com/videos/play/wwdc2026/102/",
+    "evidence": "Official transcript and 18:43–19:06 video inspected; new View Annotations demo",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "apple-siri-region",
+    "title": "Siri AI availability",
+    "url": "https://support.apple.com/en-us/127893",
+    "evidence": "2026-09-22; beta/version/language/account/EU distinctions",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "apple-ai-region",
+    "title": "Apple Intelligence availability",
+    "url": "https://support.apple.com/zh-cn/121115",
+    "evidence": "Official regional / device conditions",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "violoop",
+    "title": "VIOLOOP official demo",
+    "url": "https://violoop.ai/",
+    "evidence": "Promotional short approval clip inspected; not task latency measurement",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "micro-guide",
+    "title": "Work Louder: Getting started with Codex Micro",
+    "url": "https://www.youtube.com/watch?v=3-2OH6ReiPM",
+    "evidence": "Chapters inspected; exact publication date/build unavailable; local download failed; stills at 01:54 and 02:06",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "cotton",
+    "title": "cotton: Huawei store hands-on",
+    "url": "https://www.zhihu.com/pin/special/1512133923421696000",
+    "evidence": "2025-05-21; store trial, not owner, full visible text read",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "fold-owner",
+    "title": "Tekkyfan: MateBook Fold in the US",
+    "url": "https://www.reddit.com/r/Huawei/comments/1lforgw/matebook_fold_in_the_us_unboxing_tour_coming_soon/",
+    "evidence": "2025; self-reported owner/student; full thread read, comments kept by author",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "douyin-fold",
+    "title": "且听Phone吟: 100 days with Fold",
+    "url": "https://jingxuan.douyin.com/m/video/7554037472062213411",
+    "evidence": "2025-09-26; title/description only, full recording unverified, commercial identity unknown",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "xpro-review",
+    "title": "夏蒙乾: MateBook X Pro engineering-sample review",
+    "url": "https://zhuanlan.zhihu.com/p/691946576",
+    "evidence": "2024-04-11; full article browser-read; not long-term owner",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "eq59",
+    "title": "小睡耍数码: Beelink EQ59 desk",
+    "url": "https://www.zhihu.com/tardis/zm/art/550809062",
+    "evidence": "2022-08-07; full article browser-read; creator purchase claim, promotion not ruled out",
+    "checked": "2026-10-07"
+  },
+  {
+    "key": "xiaohongshu",
+    "title": "Xiaohongshu Fold search",
+    "url": "https://www.xiaohongshu.com/search_result?keyword=MateBook%20Fold&source=web_explore_feed",
+    "evidence": "Login wall; no user-feedback claims extracted",
+    "checked": "2026-10-07"
+  }
+]

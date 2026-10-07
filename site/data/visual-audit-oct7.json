@@ -1,0 +1,547 @@
+{
+  "date": "2026-10-07",
+  "assets": [
+    {
+      "path": "assets/content-oct6/AI-14-frame2.jpg",
+      "bytes": 33403,
+      "sha256": "6665b79ea3ae5b30bf9cb1eecdb033c8805e480aefad23a09eb0bc7e27fa2cd1",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/AI-3.jpg",
+      "bytes": 123786,
+      "sha256": "8ec6dc8e157e940ca686faf6cf509a08892bf09e49a10672dcdd57c1b47c486c",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Android-Halo-6-frame2.jpg",
+      "bytes": 16304,
+      "sha256": "9052bace589b351a048b4f2810c67d4ff1609bb03ee3f765c3ee8b7a26db5402",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Chrome-auto-browse-connected-apps-6-frame2.jpg",
+      "bytes": 27638,
+      "sha256": "bded2999e824d5d3b11034f2ba711fda447c1afbd714b6c146abba20f66c2b43",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Claude-Code-IDE-3.jpg",
+      "bytes": 254013,
+      "sha256": "5fcdff0bce7035ac74140b9c0e877ec98c036a7b941072c7aea6c8f9d577e8af",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Claude-Code-IDE-6.jpg",
+      "bytes": 393387,
+      "sha256": "f85acc0e22687a88a6305cee0fc5852b4957f5e15942859337d7768818cbcea4",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Claude-Code-IDE-7.jpg",
+      "bytes": 387597,
+      "sha256": "0134635e545d5a53de16b203344a0f6289f45edc7913847b6c92b4f563a3ccd2",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Continue-On-9-frame2.jpg",
+      "bytes": 44499,
+      "sha256": "c79944b00a771d53fd90ad5c9c97271869fcb2ecc2e3002184297fc2e0275f3a",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Gemini-Android-2.jpg",
+      "bytes": 72639,
+      "sha256": "7775ac8775012c9a5c61ecdaadf2c9a27cea5ff4c320779bf0d45ec3fdf29462",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Gemini-Live-Spark-10-frame3.jpg",
+      "bytes": 38076,
+      "sha256": "3a78bb2954092936d199e091f5649ad142513036326fe3430e9553c34b1cb813",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Gemini-Live-Spark-9-frame3.jpg",
+      "bytes": 20851,
+      "sha256": "91476d1209640e653087f89343beae9a6ed0e3f449aefb50b5c33ff660fcc315",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Gemini-Spark-11-frame2.jpg",
+      "bytes": 29356,
+      "sha256": "0d6640bbf46d10d70b93778a358d6d90946b7813fb1a9c7fc1d8c66663d21ce4",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Meta-Muse-11-frame3.jpg",
+      "bytes": 45166,
+      "sha256": "978ada4b27a854fc9188317927389fa466c11f45bf00faab9b2e55069cdfa42d",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Meta-Muse-7-frame3.jpg",
+      "bytes": 40523,
+      "sha256": "15a2a34800361f28e37fbf3ced97fae6959de3d3c98ec81e6ff9abdf94162898",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Pixel-Buds-Pro-2-0.jpg",
+      "bytes": 118878,
+      "sha256": "2c180631276002617708080d7a1fe2c0571c33c3207fe3dd4ce359d975e6a355",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Pixel-Watch-5-10-frame2.jpg",
+      "bytes": 24812,
+      "sha256": "f2b4398418de96d5c491ad94fa0c02b2800cb0d9bd8d6b2caaebd250bc621cf7",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/VIOLOOP-4-frame2.jpg",
+      "bytes": 44915,
+      "sha256": "55dc6b3b22dfae8e3000aa28696333106006be98a1f17692bc7ff67184126bc2",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/VIOLOOP-8-frame3.jpg",
+      "bytes": 53949,
+      "sha256": "92414e8848cb1963a2eeb3db62182260333d87baaf8a24e7fdf00afaf484453c",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Wear-OS-7-11-frame2.jpg",
+      "bytes": 22250,
+      "sha256": "131b5fcc4a032e3d4f8389f8cbdedbe7d95ea8c9d407934eca4cb4158437ae7c",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/Wear-OS-7-3.jpg",
+      "bytes": 154121,
+      "sha256": "1c21bb68617cb8f13f26ade56ae0a022f343a004a3b2decffa5cb6d1d66470ca",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/apple-annotations-1009.jpg",
+      "bytes": 26419,
+      "sha256": "0fd1ce6cd78748f348ab37a9ff4853178ea162b05689a58e489147e5788b2d9f",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/apple-annotations-1045.jpg",
+      "bytes": 38087,
+      "sha256": "4ace16daa7566474527dbe105c843cd5549846d3dac0c407c3575989e61bea6a",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/apple-annotations-1098.jpg",
+      "bytes": 31847,
+      "sha256": "f71cba0912990abfc9cd453feb75df84f6f8db28ace9800b8ed0c8d82472363e",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/googlebook-intelligence-0-frame2.jpg",
+      "bytes": 40768,
+      "sha256": "acc2b517cace9cf2e65e2f26c45884d4fe0617c2540547e0fe601159cd9abbde",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/googlebook-intelligence-1-frame2.jpg",
+      "bytes": 42013,
+      "sha256": "8cac552a696e20c0cd3e8ed85d2e60539f9e04d9600e6886fa521c7e0e4684fb",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/googlebook-meet-2-frame2.jpg",
+      "bytes": 35894,
+      "sha256": "a66e23273f8e38f25cf2104f5bba7dd6aefb9a144694189bf92a84e4ea1eb671",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/hilight-0.jpg",
+      "bytes": 62941,
+      "sha256": "7f954bb553ff1a96243f7a7c7ac3a9d9ef0cde89e6b4822bb8bb97de7c701093",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/huawei-system-11.jpg",
+      "bytes": 117415,
+      "sha256": "bfec833345f959130c717fda9b83d100f5eacf08de115ddad4f09e0ba53eb5b2",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/huawei-system-9.jpg",
+      "bytes": 16949,
+      "sha256": "3215ad8e18aa31499f1aa3ce078df49ff7e71b79ddfe688d3388faa6ee21dbd3",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/overview-native-10-3.jpg",
+      "bytes": 211743,
+      "sha256": "e9549e49868d1411f98ce8641aa353d24624223fb3b6a51a31a5841738f27ff9",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/pock-0.jpg",
+      "bytes": 180500,
+      "sha256": "cf30b17f94e7d08569a00e4a6aa3703f6e0b7368b4434fa4eb5130d9e98daaf6",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/workbuddy-official-10.jpg",
+      "bytes": 125516,
+      "sha256": "43501f810cfc793d4dd02ed0d7cdf9ad39c621f004ecb7d3b2cccae7ec39d3c5",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/workbuddy-official-6.jpg",
+      "bytes": 212746,
+      "sha256": "3a8cc703041b40a4700b76f1542e605a2ffacc61fcc468eec61ee89702828d2d",
+      "zh_references": 3,
+      "en_references": 3,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/workbuddy-official-7.jpg",
+      "bytes": 258030,
+      "sha256": "cefbc8417803ea3ce7ed16462c7c01388737a6c627a0417da45802bc38220d0e",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/workbuddy-official-8.jpg",
+      "bytes": 343776,
+      "sha256": "c3d008592bfad8bc659a300f8cae3aedf3450aee44362c66a52696f643539c41",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/workbuddy-official-9.jpg",
+      "bytes": 252612,
+      "sha256": "afb9b4137c3695d0e6f36e53f27395823491dbc56065c1cf1e8b34003ee58cfb",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/yep-1.jpg",
+      "bytes": 296350,
+      "sha256": "0994e7b90609b9e011e0eb4e6408e2f3d1f8810e2b54c25f14bbc626b471a480",
+      "zh_references": 2,
+      "en_references": 2,
+      "status": "mounted_both"
+    },
+    {
+      "path": "assets/content-oct6/yep-2.jpg",
+      "bytes": 308341,
+      "sha256": "5bafa059e25aa77d0bf48a1f4ff05405c091d46f935c19bd71fbe6cefeadd0b2",
+      "zh_references": 1,
+      "en_references": 1,
+      "status": "mounted_both"
+    }
+  ],
+  "remaining": [
+    {
+      "name": "讯飞 SR701 / SR501",
+      "target": "evolution-sr701",
+      "reason": "2019原代图片服务器403；当前官网型号不能替代原代。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "version_or_identity_gap",
+      "diagnosis_zh": "版本／项目身份不符；现有近似图不能充当本项证据。",
+      "diagnosis_en": "Version / project identity gap; a similar existing image is not evidence for this item.",
+      "detail_en": "2019-generation SR701/SR501 image server returned 403; newer hardware is not an acceptable substitute."
+    },
+    {
+      "name": "语音工作流的触发改造",
+      "target": "maker-03",
+      "reason": "文字案例/概念征询；原帖图片访问受限，不能拿其他项目代替。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "Text / concept-discussion case; original post image is inaccessible, with no verified replacement."
+    },
+    {
+      "name": "Voice & Keys 概念征询",
+      "target": "maker-04",
+      "reason": "文字案例/概念征询；原帖图片访问受限，不能拿其他项目代替。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "A text-based concept inquiry, not a shipped product; original image not accessible."
+    },
+    {
+      "name": "Codex Remote",
+      "target": "overview-agent-1",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "No verified author / official visual demonstrating the referenced remote feature."
+    },
+    {
+      "name": "网页选区与批注",
+      "target": "overview-agent-3",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "No verified feature screenshot matching the cited web selection / annotation case."
+    },
+    {
+      "name": "OpenAI实时Voice",
+      "target": "overview-agent-4",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "No verified frame matching the cited OpenAI realtime-voice interaction."
+    },
+    {
+      "name": "Claude Code Remote Control",
+      "target": "overview-agent-5",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "No verified frame of the cited Claude Code Remote Control version."
+    },
+    {
+      "name": "Claude Code语音",
+      "target": "overview-agent-7",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "No verified corresponding Claude Code voice capture."
+    },
+    {
+      "name": "Claude Dispatch",
+      "target": "overview-agent-8",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "No verified image of the cited Claude Dispatch interaction."
+    },
+    {
+      "name": "claude-macropad",
+      "target": "overview-community-3",
+      "reason": "项目身份未解决，不选择同名项目图片。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "version_or_identity_gap",
+      "diagnosis_zh": "版本／项目身份不符；现有近似图不能充当本项证据。",
+      "diagnosis_en": "Version / project identity gap; a similar existing image is not evidence for this item.",
+      "detail_en": "An unrelated macro pad cannot substitute for this exact project."
+    },
+    {
+      "name": "Codex TouchBar（身份待确认）",
+      "target": "overview-community-4",
+      "reason": "项目身份未解决，不选择同名项目图片。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "version_or_identity_gap",
+      "diagnosis_zh": "版本／项目身份不符；现有近似图不能充当本项证据。",
+      "diagnosis_en": "Version / project identity gap; a similar existing image is not evidence for this item.",
+      "detail_en": "Images of other Touch Bar projects cannot establish CodexTouchBar identity."
+    },
+    {
+      "name": "OpenAI Dots",
+      "target": "platforms",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "No verified product-specific OpenAI Dots image from the cited material."
+    },
+    {
+      "name": "Agents API",
+      "target": "platforms",
+      "reason": "基础能力记录；以接口文档为证据，无独立产品UI，不造配图。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "API／SDK 没有独立产品界面；应补官方机制图或可运行演示，不适合用通用图片填充。",
+      "diagnosis_en": "API / SDK lacks an independent product UI; needs an official mechanism diagram or executable demo, not a generic picture.",
+      "detail_en": "Agents API is an interface, not a standalone app screen; needs an official mechanism figure or executable demo."
+    },
+    {
+      "name": "GPT-Live",
+      "target": "platforms",
+      "reason": "基础能力记录；以接口文档为证据，无独立产品UI，不造配图。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "API／SDK 没有独立产品界面；应补官方机制图或可运行演示，不适合用通用图片填充。",
+      "diagnosis_en": "API / SDK lacks an independent product UI; needs an official mechanism diagram or executable demo, not a generic picture.",
+      "detail_en": "GPT-Live lacks a verified independent UI image in these sources; do not use a generic voice picture."
+    },
+    {
+      "name": "Muse Gadget SDK",
+      "target": "ecosystems",
+      "reason": "基础能力记录；以接口文档为证据，无独立产品UI，不造配图。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "API／SDK 没有独立产品界面；应补官方机制图或可运行演示，不适合用通用图片填充。",
+      "diagnosis_en": "API / SDK lacks an independent product UI; needs an official mechanism diagram or executable demo, not a generic picture.",
+      "detail_en": "MuseGadget SDK needs a mechanism / integration figure; hardware imagery alone does not demonstrate SDK behavior."
+    },
+    {
+      "name": "Dragon NaturallySpeaking",
+      "target": "pre-agent-dragon",
+      "reason": "未取得与所记历史版本匹配的可用实图；当前医学版图不能冒充早期版。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "version_or_identity_gap",
+      "diagnosis_zh": "版本／项目身份不符；现有近似图不能充当本项证据。",
+      "diagnosis_en": "Version / project identity gap; a similar existing image is not evidence for this item.",
+      "detail_en": "The historical Dragon version lacks a matching image; current branding / UI is not equivalent."
+    },
+    {
+      "name": "Claude统一入口",
+      "target": "overview-agent-8",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "no_verified_matching_visual",
+      "diagnosis_zh": "未取得可验证的对应功能画面；不是已知路径错误或漏挂。",
+      "diagnosis_en": "No verified matching feature image obtained; not a known path error or omitted mount.",
+      "detail_en": "The shared Claude entry / Dispatch item still lacks its specific verified UI; a related image is insufficient."
+    },
+    {
+      "name": "Pixel Buds Gemini音频控制",
+      "target": "platforms",
+      "reason": "本轮对应官方/作者页未提供可用于说明功能的真实画面；不使用Logo或通用封面填充。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "version_or_identity_gap",
+      "diagnosis_zh": "版本／项目身份不符；现有近似图不能充当本项证据。",
+      "diagnosis_en": "Version / project identity gap; a similar existing image is not evidence for this item.",
+      "detail_en": "A Pixel Buds Pro 2 hardware image exists, but does not verify the cited Gemini interaction / software version."
+    },
+    {
+      "name": "T1Bridge",
+      "target": "overview-community-4",
+      "reason": "已识别仓库未提供对应实物/操作图；Pock图属于另一个项目。",
+      "audit_date": "2026-10-07",
+      "path_error": false,
+      "unmounted_existing_match": false,
+      "status": "version_or_identity_gap",
+      "diagnosis_zh": "版本／项目身份不符；现有近似图不能充当本项证据。",
+      "diagnosis_en": "Version / project identity gap; a similar existing image is not evidence for this item.",
+      "detail_en": "Pock is a different project; no verified matching T1Bridge image was found."
+    }
+  ],
+  "summary": {
+    "files": 38,
+    "mounted_both": 38,
+    "path_errors": 0,
+    "unmounted": 0,
+    "version_or_identity_gaps": 6,
+    "no_verified_matching_visual": 13
+  }
+}

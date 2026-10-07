@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-07",
+  "scope": "public report, assets and public provenance; no raw local archives/QA/backups",
+  "pages": {
+    "index.html": {
+      "sha256": "15bf7b1e5fa8026c9daef0cc58af331adfb0d3750b386ce210711974cd599b04"
+    },
+    "index.en.html": {
+      "sha256": "0d3c7e0e01a4eab31c539473ac50e3b6f35fc4fd6b02b0cf85ed8d96ff764fa5"
+    },
+    "historical-case-index.html": {
+      "sha256": "db6091a35ca3ed6ba385b66ad755a9df8f337e21bcc0647786e2f1cb9a866eb5"
+    },
+    "product-timeline.html": {
+      "sha256": "a2d5026ce84f46a13359745af59b1adb0ba92dd46166cc3fd90b334d59aaa21f"
+    }
+  }
+}
