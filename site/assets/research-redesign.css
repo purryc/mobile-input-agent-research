@@ -1,4 +1,94 @@
 /* Selected option 2: editorial evidence rail. All content remains expanded. */
+/* Whole-report reading density: content-sized cards, bounded evidence media. */
+@media screen {
+ .ia-report .history-case-grid,.ia-report .grid,.ia-report .segment-grid,
+ .ia-report .oct7-case-grid,.ia-report .oct7-profile-grid,.ia-report .micro-user-grid,
+ .ia-report .pre-agent-grid,.ia-report .evolution-product-grid,
+ #trends .ch6-findings,#trends .ch6-receipts{align-items:start}
+ .ia-report .history-case-grid{gap:18px;margin-top:18px}
+ .ia-report .history-product{padding:16px;border-radius:0}
+ .ia-report .history-product h3,.ia-report .history-product h4{font-size:21px;margin:0 0 12px}
+ .ia-report .history-case-grid .history-product figure>img{width:100%;height:240px!important;max-height:240px!important;object-fit:contain}
+ .ia-report .history-product figure{margin:0 0 14px}
+ .ia-report .history-product dl{display:grid;grid-template-columns:115px minmax(0,1fr);gap:8px 14px;line-height:1.65}
+ .ia-report .history-product dt{margin:0;font-size:12px;line-height:1.65}
+ .ia-report .history-product dd{margin:0;font-size:14px;line-height:1.65}
+ .ia-report .history-product .model-photo-row img{height:135px!important;max-height:135px!important}
+ .ia-report .history-product .case-feedback{margin:12px 0 0;padding:10px 12px}
+ .ia-report .layout-product-feature{display:grid;grid-template-columns:minmax(250px,340px) minmax(0,1fr);gap:14px 24px;margin:16px 0}
+ .ia-report .layout-product-title{grid-column:1/-1}
+ .ia-report .layout-product-media,.ia-report .layout-product-copy{min-width:0}
+ .ia-report .layout-product-media figure img{width:100%;height:auto!important;max-height:285px!important;object-fit:contain}
+ .ia-report .layout-product-copy>:first-child{margin-top:0}
+ .ia-report .layout-product-copy>:last-child{margin-bottom:0}
+ .ia-report .pre-agent-grid img{width:100%;height:170px!important;object-fit:contain}
+ .ia-report .product-gallery img,.ia-report .micro-gallery img,
+ .ia-report .new-evidence-gallery img,.ia-report .media-pair img,
+ .ia-report .panel>figure>img,.ia-report .panel>img{max-height:280px!important;object-fit:contain}
+ .ia-report .panel:has(>figure),.ia-report .panel:has(>img){align-self:start}
+ .ia-report .ia-legacy-section .wrap{width:100%;max-width:none}
+ .ia-report .oct7-video{max-width:none;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:start}
+ .ia-report .oct7-video video{width:100%;max-height:300px;object-fit:contain}
+ .ia-report .oct7-video figcaption{margin:0;font-size:13px;line-height:1.6}
+ .ia-report .oct7-video figcaption p{font-size:14px;margin:8px 0}
+ .ia-report .oct7-video figcaption small{font-size:11px;line-height:1.6}
+ .ia-report .oct7{margin:18px 0 24px}
+ .ia-report .research-brief{margin:16px 0 20px;padding:12px 0 14px;gap:24px}
+ .ia-report .ia-subsection{margin:20px 0;padding-top:16px}
+ .ia-report .ia-subsection>.subchapter{padding-top:16px}
+ .ia-report .source-item{padding:9px 0;line-height:1.55}
+ .ia-report .source-item p{font-size:12px;line-height:1.55;margin:3px 0}
+ .ia-report .source-item .source-meta{margin:4px 0}
+ .ia-report .surface-grid{align-items:start}
+ .ia-report .surface-content{flex:0 1 auto;padding:18px}
+ .ia-report .history-timeline>li{align-items:start}
+ .ia-report .time-card{padding:18px;gap:20px;align-items:start}
+ .ia-report .time-visual figure>img{width:100%;height:210px!important;max-height:210px!important;object-fit:contain}
+ .ia-report .timeline-evidence{grid-column:2;min-width:0}
+ .ia-report .timeline-feedback-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:start}
+ .ia-report .timeline-feedback-grid:has(>.panel:only-child){grid-template-columns:1fr}
+ .ia-report .timeline-feedback-grid .panel{margin:0}
+ .ia-report .timeline-evidence>figure{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;margin:16px 0;align-items:start}
+ .ia-report .timeline-evidence>figure img{width:100%;height:auto!important;max-height:240px!important;object-fit:contain}
+ .ia-report .timeline-evidence>figure figcaption{margin:0}
+ .ia-report .appendix .section-head,.ia-report .section-head:has(>div:only-child){display:block}
+ .ia-report .appendix .section-head h2{font-size:24px}
+ .ia-report .pre-agent-grid>.layout-preagent-feature{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px 24px;align-items:start}
+ .ia-report .layout-preagent-feature>h4{grid-column:1/-1;margin-bottom:0}
+ .ia-report .layout-preagent-feature>figure{margin:0}
+ .ia-report .layout-history-primary,.ia-report .layout-history-practice{min-width:0}
+ .ia-report .layout-history-primary{display:flow-root}
+ .ia-report .layout-history-primary>figure{float:left;width:160px;margin:0 18px 10px 0}
+ .ia-report .layout-history-practice .merged-user-evidence>figure{margin:0 0 10px}
+ .ia-report .layout-history-practice .merged-user-evidence>figure img{height:110px!important;max-height:110px!important;object-fit:contain}
+ .ia-report .layout-history-practice h5{font-size:16px;margin:0 0 8px}
+ .ia-report .layout-history-practice p{font-size:13px;line-height:1.6;margin:8px 0}
+ .ia-report .layout-history-primary>:first-child,.ia-report .layout-history-practice>:first-child{margin-top:0}
+ .ia-report .layout-history-practice dl{display:grid;grid-template-columns:100px minmax(0,1fr);gap:7px 12px;margin:8px 0}
+ .ia-report .layout-history-practice dt,.ia-report .layout-history-practice dd{margin:0;line-height:1.6;font-size:13px}
+ .ia-report .evolution-product-grid{display:block;columns:3;column-gap:18px}
+ .ia-report .evolution-product-grid>article{break-inside:avoid;margin:0 0 18px}
+}
+@media screen and (min-width:961px){.ia-report #workbuddy-office-video .oct7-case-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.ia-report .pre-agent-grid{grid-template-columns:repeat(6,minmax(0,1fr))}.ia-report .pre-agent-grid>article{grid-column:span 2}.ia-report .pre-agent-grid>article:nth-last-child(2):not(.layout-preagent-feature),.ia-report .pre-agent-grid>article:last-child:not(.layout-preagent-feature){grid-column:span 3}}
+@media screen and (min-width:701px) and (max-width:960px){.ia-report .evolution-product-grid{columns:2}.ia-report .pre-agent-grid>.layout-preagent-feature{grid-template-columns:1fr}.ia-report .layout-history-practice{grid-column:1/-1}}
+@media screen and (min-width:701px) and (max-width:960px){.ia-report .timeline-feedback-grid{grid-template-columns:1fr}.ia-report .layout-product-feature{grid-template-columns:minmax(180px,.75fr) minmax(0,1fr)}}
+@media screen and (max-width:700px){
+ .ia-report .layout-product-feature,.ia-report .oct7-video{display:block}
+ .ia-report .layout-product-media{margin-bottom:14px}
+ .ia-report .history-case-grid .history-product figure>img{height:auto!important;max-height:260px!important}
+ .ia-report .history-product dl{display:block}
+ .ia-report .history-product dt{margin:9px 0 3px}
+ .ia-report .oct7-video figcaption{margin-top:10px}
+ .ia-report .timeline-feedback-grid,.ia-report .timeline-evidence>figure{display:block}
+ .ia-report .timeline-feedback-grid>.panel{margin:12px 0}
+ .ia-report .timeline-evidence>figure figcaption{margin-top:8px}
+ .ia-report .pre-agent-grid>.layout-preagent-feature{display:block}
+ .ia-report .layout-history-primary>figure{float:none;width:100%;margin:0 0 14px}
+ .ia-report .layout-history-practice dl{display:block}
+ .ia-report .layout-history-practice dt{margin-top:8px;color:var(--red)}
+ .ia-report .evolution-product-grid{columns:1}
+}
+@media print{.ia-report .timeline-evidence{grid-column:2;min-width:0}.ia-report .history-timeline>li:has(.timeline-evidence){break-inside:auto}.ia-report .timeline-feedback-grid{display:block}.ia-report .timeline-feedback-grid>.panel{margin-bottom:3mm}.ia-report .layout-product-feature{display:block}.ia-report .pre-agent-grid>.layout-preagent-feature{grid-column:1/-1}.ia-report .appendix .section-head,.ia-report .section-head:has(>div:only-child){display:block}}
 .ia-report{--ink:#171719;--red:#ad1425;--muted:#65666a;--rule:#dedee1;--paper:#f6f6f5}
 .ia-report body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;font-size:15px;line-height:1.65;color:var(--ink);background:#fff}
 .ia-report .wrap{max-width:1240px;width:calc(100% - 56px)}

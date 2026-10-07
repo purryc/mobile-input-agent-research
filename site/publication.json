@@ -3,10 +3,10 @@
   "scope": "public report, assets and public provenance; no raw local archives/QA/backups",
   "pages": {
     "index.html": {
-      "sha256": "5abb0c32ec905ce5ffc0f3865ba54f79399a0a092ccc575ce08494b950d8c669"
+      "sha256": "6b0c7cff6bb12c85ea64bbf619eef29872ddc0d80e86969d87ba2750b9757105"
     },
     "index.en.html": {
-      "sha256": "2543779ce8daff75b60599569f34562816694d4b62fe0eb8ec8a518ca388a7e0"
+      "sha256": "232cd5fed5a78c073fffa090a6d77ea4365cca3870150fa88616193ab05776a6"
     },
     "historical-case-index.html": {
       "sha256": "870c0bc160908c7074559a9d9cf3d5039b550c49ee78ba128e7de4f25dc17db8"
