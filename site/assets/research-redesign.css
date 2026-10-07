@@ -58,4 +58,40 @@
 @media(max-width:700px){.ia-report .wrap{width:calc(100% - 28px)}.ia-report h2{font-size:26px}.research-brief,.scenario-sheet,.ia-report .oct7-task{display:block}.evidence-rail{border-left:0;border-top:1px solid var(--rule);padding:12px 0 0;margin-top:18px}.scenario-index{grid-template-columns:1fr}.scenario-sheet img{height:auto!important;max-height:260px}.ia-report .oct7-task figure{float:none;width:100%;margin:10px 0;max-width:450px}.ia-report .oct7-task dl{display:block}.ia-report .oct7-task dt{margin:10px 0 3px}.evidence-strip{grid-template-columns:1fr;gap:8px}.ia-report .g3,.ia-report .segment-grid{grid-template-columns:1fr}.ia-report table{font-size:13px}.ia-report table th,.ia-report table td{padding:8px 7px;font-size:13px}.scenario-sheet footer{margin-top:18px}.ia-report .ia-subsection>h3{font-size:22px}}
 @media screen and (max-width:700px){.scenario-main{display:block}.ia-report .table-wrap:has(tr>:nth-child(4)) table{min-width:640px}.ia-report .table-wrap{overscroll-behavior-inline:contain}}
 @media print{.scenario-main{display:block}.scenario-main>figure{float:left;width:48%;margin-right:4mm}.scenario-main>.evidence-strip{display:block;min-height:43mm}.scenario-main>h4{clear:both}}
+
+/* Chapter 6: source synthesis and cross-device Mobile Agent proposals. */
+#trends .legacy-anchor{display:block;height:0;margin:0;padding:0;scroll-margin-top:calc(var(--report-nav-height) + 18px)}
+#trends .ch6-findings{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:18px 0}
+#trends .ch6-finding{border:1px solid var(--rule);background:#f8f8f7;padding:18px;min-width:0}
+#trends .ch6-finding h4{margin:0 0 10px;font-size:19px;line-height:1.4}
+#trends .ch6-finding p{margin:8px 0;font-size:14px;line-height:1.65}
+#trends .ch6-confidence{padding-top:8px;border-top:1px solid var(--rule);color:#666}
+#trends .ch6-lifecycle{margin:18px 0}
+#trends .ch6-lifecycle img{display:block;width:100%;height:auto!important;max-height:none!important;object-fit:contain}
+#trends .ch6-lifecycle figcaption{font-size:12px;line-height:1.5;color:#666;margin-top:7px}
+#trends .ch6-stages{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px;margin:16px 0 22px}
+#trends .ch6-stages article{border-top:2px solid var(--red);padding-top:8px;min-width:0}
+#trends .ch6-stages h4{font-size:15px;margin:0 0 7px}
+#trends .ch6-stages p{font-size:13px;line-height:1.65;margin:0}
+#trends .scenario-main{display:block}
+#trends .scenario-main>figure.scenario-visual{float:none;width:100%;margin:0 0 18px}
+#trends .scenario-visual img{width:100%;height:auto!important;max-height:none!important;object-fit:contain}
+#trends .scenario-visual figcaption{font-size:11px!important;line-height:1.5}
+#trends .generated-tag{color:var(--red);font-weight:700}
+#trends .storyboard-caption{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;font-size:12px;padding-top:9px;line-height:1.55}
+#trends .storyboard-caption b{color:var(--red);margin-right:3px}
+#trends .scenario-main>.evidence-strip{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:12px 0;margin-bottom:14px}
+#trends .scenario-main>.evidence-strip>div+div{border-top:0;margin:0;padding:0}
+#trends .ch6-receipts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+#trends .ch6-receipts article{padding:12px;background:#f8f8f7;border:1px solid var(--rule);min-width:0}
+#trends .ch6-receipts p{font-size:14px;line-height:1.65;margin:6px 0}
+#trends .ch6-paper-evidence{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:16px 0}
+#trends .ch6-paper-evidence article{min-width:0}
+#trends .ch6-paper-evidence figure{margin:6px 0}
+#trends .ch6-paper-evidence img{width:100%;height:160px!important;object-fit:contain;background:#fafafa}
+#trends .ch6-paper-evidence figcaption{font-size:11px!important;line-height:1.5}
+#trends .ch6-study li{font-size:15px;line-height:1.7;margin:10px 0}
+@media(max-width:960px){#trends .ch6-stages{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){#trends .ch6-findings,#trends .ch6-stages,#trends .ch6-receipts,#trends .ch6-paper-evidence,#trends .scenario-main>.evidence-strip{grid-template-columns:1fr}#trends .ch6-finding{padding:14px}#trends .storyboard-caption{gap:8px;font-size:11px}#trends .ch6-paper-evidence img{height:auto!important}#trends .scenario-sheet h3{font-size:23px!important}}
+@media print{#trends .ch6-finding{break-inside:avoid;padding:3mm}#trends .ch6-finding p{font-size:9pt!important}#trends .scenario-visual img{height:49mm!important;max-height:49mm!important}#trends .scenario-main>.evidence-strip{min-height:0;padding:2mm 0;gap:4mm}#trends .ch6-lifecycle img{max-height:80mm!important}#trends .storyboard-caption{font-size:7.5pt;gap:2mm}#trends .ch6-paper-evidence img{height:27mm!important}#trends .ch6-stages p,#trends .ch6-receipts p,#trends .ch6-study li{font-size:9pt!important}#trends .ch6-paper-evidence figcaption{font-size:7pt!important}}
 @media print{@page{size:A4;margin:13mm}.ia-report body{font-size:10pt}.ia-report .wrap{width:100%;max-width:none}.ia-report p{font-size:10pt;line-height:1.5}.research-brief{grid-template-columns:1fr 50mm;gap:7mm}.scenario-sheet{break-before:page;break-after:page;margin:0;padding:0;border-top:0;grid-template-columns:minmax(0,1fr) 48mm;gap:4mm 6mm;break-inside:auto}.scenario-sheet h3{font-size:19pt!important}.scenario-sheet p,.scenario-flow li{font-size:9pt!important;line-height:1.42!important;margin:1.5mm 0!important}.scenario-sheet h4{font-size:10pt!important;margin:2mm 0 1mm!important;padding-top:2mm}.scenario-sheet img{height:35mm!important;object-fit:contain}.scenario-sheet .small,.scenario-sheet figcaption,.scenario-sheet footer{font-size:7.5pt!important}.scenario-flow{margin:2mm 0!important}.scenario-sheet .evidence-rail{padding-left:4mm}.scenario-sheet footer{padding-top:2mm}.evidence-strip{gap:4mm;padding-bottom:2mm;margin-bottom:2mm}.ia-report .oct7-task{display:block;break-inside:auto}.ia-report .oct7-task figure{float:right;width:35%;margin:0 0 4mm 4mm}.ia-report .oct7-task dl{display:block}.ia-report table{font-size:8pt}.ia-report table td,.ia-report table th{font-size:8pt;padding:2mm}.ia-report .ia-subsection{break-before:auto}.scenario-sheet header{break-after:avoid}.scenario-main>h4{break-after:avoid}.scenario-flow li,.evidence-rail>p{break-inside:avoid}}

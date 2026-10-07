@@ -1,0 +1,232 @@
+{
+  "method": "source-based thematic synthesis; no new user study",
+  "decision": "How should a cross-device Mobile Agent bind objects and intent, supervise execution, intervene, and resume tasks, with Fold as a focus executor?",
+  "themes": [
+    {
+      "id": "synthesis-target",
+      "refs": [
+        301,
+        100,
+        102,
+        113,
+        114,
+        300
+      ],
+      "title": [
+        "把要求绑到具体对象，才能减少返工",
+        "Bind instructions to objects to reduce rework"
+      ],
+      "observation": [
+        "WorkBuddy 原处双写、小艺圈选与伴随式入口提供对象带入路径；Codex 公开问题记录出现旧选区重复附带、发出后难回查。",
+        "WorkBuddy co-writing and Xiaoyi selection/context entry offer ways to bring objects into a request. Public Codex issues describe stale selections and difficulty inspecting what was sent."
+      ],
+      "interpretation": [
+        "机会是保留文档、选区和版本，减少改错范围；聊天入口的数量不能解释这类问题。",
+        "The opportunity is preserving document, selection and version so edits stay in scope; counting chat entry points does not explain this friction."
+      ],
+      "counter": [
+        "小修改可能直接手改更快。桌前已有选区入口时，手机还会增加拿取与传输。",
+        "Small edits may be faster manually. A phone adds handling and transfer when selection is already available on the PC."
+      ],
+      "action": [
+        "手机带着明确选区表达要求；执行端原位预览与核验，比较原生编辑与已有远程能力。",
+        "Carry explicit selection and intent on phone; preview and verify in place on the executor. Compare with native editing and existing remote capabilities."
+      ],
+      "confidence": [
+        "机制线索中等；频率与新布局收益低。",
+        "Moderate mechanism evidence; low confidence in frequency and layout benefit."
+      ]
+    },
+    {
+      "id": "synthesis-refinement",
+      "refs": [
+        63,
+        80,
+        122,
+        279,
+        230,
+        354,
+        355,
+        356,
+        40
+      ],
+      "title": [
+        "表达之后还有精修，工具需要稳定",
+        "Expression is followed by refinement; tools need stability"
+      ],
+      "observation": [
+        "语音长用与体验个案仍涉及技术词纠错、背景声音和发前校正；菜单研究与控制器个案提示位置记忆、已有快捷键会影响表现。",
+        "Long-use dictation and review cases include technical-term corrections, background sound and pre-send editing. Menu studies and controller cases point to spatial memory and existing shortcuts as performance factors."
+      ],
+      "interpretation": [
+        "离散要求适合语言；连续参数适合直接调节；结构修改与复杂检查仍需要原生大屏。",
+        "Language suits discrete intent; direct controls suit continuous parameters; structural edits and complex inspection still need the native large-screen editor."
+      ],
+      "counter": [
+        "动态菜单研究结果有条件，不能推出一切动态界面无效；实体旋钮手感也不能直接移植到玻璃上。",
+        "Dynamic-menu results are conditional, not a verdict against every adaptive interface. A glass control does not inherit a physical knob’s feel."
+      ],
+      "action": [
+        "固定高频动作和返回/停止位置，只推荐少量工具；比较熟练键鼠和本机触控。",
+        "Keep frequent actions and return/stop stable, suggest few tools, and compare with practiced keyboard/mouse and native touch."
+      ],
+      "confidence": [
+        "有论文与个案交叉线索；Fold 分区与副手收益仍低置信。",
+        "Research and cases provide converging clues; Fold zoning and secondary-hand gains remain low-confidence."
+      ]
+    },
+    {
+      "id": "synthesis-intervention",
+      "refs": [
+        351,
+        352,
+        326,
+        333,
+        242,
+        306
+      ],
+      "title": [
+        "只在需要人时介入，决定必须有对象",
+        "Intervene when a person is needed; decisions need a target"
+      ],
+      "observation": [
+        "Claudeq、F-Row 与 Micro 案例出现等待问题、任务状态和并行入口；Conn 作者记录误批准风险，也有 Micro 用户很少用批准键。",
+        "Claudeq, F-Row and Micro cases expose waiting questions, task state and parallel entry points. Conn documents accidental approval risk; some Micro users rarely use approval keys."
+      ],
+      "interpretation": [
+        "有价值的是找到正确阻塞并理解后果；状态、通知和决策承担不同职责。",
+        "Value lies in finding the right blocker and understanding consequences; state, notification and decision serve different roles."
+      ],
+      "counter": [
+        "单任务或低审批频率用户可能用不到独立面板。小屏和过期状态可能增加误判。",
+        "A separate panel may be unnecessary for single-task or infrequent-approval users. Small screens and stale state can increase mistakes."
+      ],
+      "action": [
+        "Fold 下区承接复杂差异检查；离桌手机只处理信息足够的短请求，并直达原任务。",
+        "Review complex changes below on Fold; away from the desk, phone handling is limited to sufficiently explained short requests linked to the original task."
+      ],
+      "confidence": [
+        "实现与问题记录中等；普遍需求与留存低。",
+        "Moderate implementation/problem evidence; low confidence in general demand and retention."
+      ]
+    },
+    {
+      "id": "synthesis-cost",
+      "refs": [
+        116,
+        117,
+        266,
+        268,
+        25,
+        26,
+        40,
+        264,
+        60,
+        357
+      ],
+      "title": [
+        "额外设备的价值，要扣除接续与维护成本",
+        "Deduct handoff and maintenance costs from device value"
+      ],
+      "observation": [
+        "远程资料与公开问题涉及附件、任务送达和恢复；历史控制器案例同时有少换手的动机和换设备变慢的反例。",
+        "Remote materials and public issues cover attachment delivery, task receipt and recovery. Historical controllers show both reduced hand-switching motives and cases where changing devices slowed work."
+      ],
+      "interpretation": [
+        "手机的差异主要在离桌、现场采集或展开画布的副手输入；桌前本机分区应是直接对照。",
+        "Phone differentiation is mainly away-from-desk use, field capture or secondary-hand input with an unfolded canvas. Native Fold zoning is the immediate desk baseline."
+      ],
+      "counter": [
+        "相机联动、Remote 或一个好热键可能已经解决问题；配对、解锁、视线移动与维护会消耗收益。",
+        "Linked capture, Remote or a good hotkey may already solve the problem. Pairing, unlocking, gaze movement and upkeep consume gains."
+      ],
+      "action": [
+        "比较完整行为链，包括首次设置、失败恢复与再次使用；不以演示速度判断效率。",
+        "Compare the whole behaviour chain, including setup, failure recovery and repeat use; do not judge efficiency from demo pacing."
+      ],
+      "confidence": [
+        "代价机制线索中等；达到收益平衡的场景比例未知。",
+        "Moderate cost-mechanism clues; the share of scenarios that break even is unknown."
+      ]
+    }
+  ],
+  "confidence": "New scenario benefit is low-confidence; reach and frequency unknown",
+  "scenarios": [
+    {
+      "id": "fold-opportunity-wps",
+      "priority": "P0",
+      "title": [
+        "WPS：手机跟随讲者，控制同一次放映",
+        "WPS: the phone follows the presenter and controls the same session"
+      ],
+      "native_task": "fold-task-01",
+      "benefit_confidence": "low"
+    },
+    {
+      "id": "fold-opportunity-paint",
+      "priority": "P0",
+      "title": [
+        "天生会画：手机做副手工具，PC 画布持续编辑",
+        "GoPaint: phone tools for the other hand, continuous editing on PC"
+      ],
+      "native_task": "fold-task-06",
+      "benefit_confidence": "low"
+    },
+    {
+      "id": "fold-opportunity-notes",
+      "priority": "P0",
+      "title": [
+        "华为笔记：手机采现场材料，Agent 续入同一笔记",
+        "Huawei Notes: phone field capture continues into the same note"
+      ],
+      "native_task": "fold-task-07",
+      "benefit_confidence": "low"
+    },
+    {
+      "id": "fold-opportunity-cad",
+      "priority": "P1",
+      "title": [
+        "中望 CAD：手机说尺寸、调参数，Fold 锁定对象并预览",
+        "ZWCAD: specify and adjust dimensions on phone, lock and preview on Fold"
+      ],
+      "native_task": "fold-task-03",
+      "benefit_confidence": "low"
+    },
+    {
+      "id": "fold-opportunity-edit",
+      "priority": "P1",
+      "title": [
+        "剪映：手机定位切点，Fold 保留预览和时间线",
+        "Jianying: locate cuts on phone, retain preview and timeline on Fold"
+      ],
+      "native_task": "fold-task-10",
+      "benefit_confidence": "low"
+    },
+    {
+      "id": "fold-opportunity-workbuddy",
+      "priority": "P1",
+      "title": [
+        "WorkBuddy：手机带选区提要求，PC 原位改稿与验收",
+        "WorkBuddy: scoped instructions on phone, in-place revision and review on PC"
+      ],
+      "native_task": "fold-task-09",
+      "benefit_confidence": "low"
+    }
+  ],
+  "results": [
+    {
+      "language": "zh",
+      "before_chars": 31717,
+      "after_chars": 11757,
+      "old_anchors": 75,
+      "scenes": 6
+    },
+    {
+      "language": "en",
+      "before_chars": 112807,
+      "after_chars": 34771,
+      "old_anchors": 75,
+      "scenes": 6
+    }
+  ]
+}

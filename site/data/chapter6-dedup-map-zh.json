@@ -1,0 +1,384 @@
+{
+  "language": "zh",
+  "old_text_characters": 31717,
+  "new_text_characters": 11757,
+  "mapping": [
+    {
+      "old_anchor": "fold-input-opportunities",
+      "new_target": "fold-input-opportunities",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "fold-opportunity-wps",
+      "new_target": "fold-opportunity-wps",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "fold-opportunity-paint",
+      "new_target": "fold-opportunity-paint",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "fold-opportunity-notes",
+      "new_target": "fold-opportunity-notes",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "fold-opportunity-cad",
+      "new_target": "fold-opportunity-cad",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "fold-opportunity-edit",
+      "new_target": "fold-opportunity-edit",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "fold-opportunity-workbuddy",
+      "new_target": "fold-opportunity-workbuddy",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "trend-software",
+      "new_target": "trend-software",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "ux-software-1",
+      "new_target": "synthesis-target",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-software-2",
+      "new_target": "synthesis-refinement",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-software-3",
+      "new_target": "synthesis-intervention",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-software-4",
+      "new_target": "synthesis-intervention",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-software-5",
+      "new_target": "synthesis-refinement",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-software-6",
+      "new_target": "synthesis-cost",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "trend-hardware",
+      "new_target": "trend-hardware",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "ux-hardware-1",
+      "new_target": "trend-hardware",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-hardware-2",
+      "new_target": "control-selection",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-hardware-3",
+      "new_target": "fold-opportunity-notes",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-hardware-4",
+      "new_target": "synthesis-intervention",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-hardware-5",
+      "new_target": "control-selection",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "ux-hardware-6",
+      "new_target": "synthesis-cost",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "mobile-opportunities",
+      "new_target": "mobile-opportunities",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "second-screen-value",
+      "new_target": "trend-hardware",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "definition",
+      "new_target": "definition",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "responsibilities",
+      "new_target": "trend-hardware",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "priorities",
+      "new_target": "mobile-priority",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "judgment",
+      "new_target": "generative-input",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "mobile-priority",
+      "new_target": "mobile-priority",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "generative-input",
+      "new_target": "generative-input",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "generative-input-surfaces",
+      "new_target": "generative-input-surfaces",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "surface-figma",
+      "new_target": "surface-figma",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-gap",
+      "new_target": "demo-gap",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "figma-receipt",
+      "new_target": "figma-receipt",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "surface-mail",
+      "new_target": "surface-mail",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-mail-text",
+      "new_target": "demo-mail-text",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-voice",
+      "new_target": "demo-voice",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-mail-preview",
+      "new_target": "demo-mail-preview",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-mail-review",
+      "new_target": "demo-mail-review",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "mail-receipt",
+      "new_target": "mail-receipt",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "surface-canvas",
+      "new_target": "surface-canvas",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-mask",
+      "new_target": "demo-mask",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "mask-paths",
+      "new_target": "mask-paths",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-mask-region",
+      "new_target": "demo-mask-region",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-mask-clear",
+      "new_target": "demo-mask-clear",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "brush-value",
+      "new_target": "brush-value",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-brush",
+      "new_target": "demo-brush",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "mask-receipt",
+      "new_target": "mask-receipt",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "surface-agent",
+      "new_target": "surface-agent",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-model",
+      "new_target": "demo-model",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-effort",
+      "new_target": "demo-effort",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-steer",
+      "new_target": "demo-steer",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-steer-send",
+      "new_target": "demo-steer-send",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "demo-stop",
+      "new_target": "demo-stop",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "agent-receipt",
+      "new_target": "agent-receipt",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "control-selection",
+      "new_target": "control-selection",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "surface-closed-loop",
+      "new_target": "surface-closed-loop",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "generative-task-catalog",
+      "new_target": "fold-input-opportunities",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "generative-protocols",
+      "new_target": "generative-protocols",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "generative-mvp",
+      "new_target": "generative-mvp",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "context-tools",
+      "new_target": "generative-input",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "paper-features",
+      "new_target": "paper-features",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "paper-menus",
+      "new_target": "paper-menus",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "paper-ephemeral",
+      "new_target": "paper-ephemeral",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "paper-commandmaps",
+      "new_target": "paper-commandmaps",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "refinement",
+      "new_target": "control-selection",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "legacy-input-proposals",
+      "new_target": "legacy-input-proposals",
+      "action": "retained"
+    },
+    {
+      "old_anchor": "user-segment-6",
+      "new_target": "generative-mvp",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "pc-contexts",
+      "new_target": "trend-hardware",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "fold-task-14",
+      "new_target": "fold-opportunity-notes",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "legacy-task-writing",
+      "new_target": "fold-opportunity-workbuddy",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "legacy-task-precision",
+      "new_target": "control-selection",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "seven-interactions",
+      "new_target": "surface-closed-loop",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "state-notification-decision",
+      "new_target": "surface-closed-loop",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "journeys",
+      "new_target": "legacy-input-proposals",
+      "action": "merged, anchor retained"
+    },
+    {
+      "old_anchor": "local-remote-input",
+      "new_target": "trend-hardware",
+      "action": "merged, anchor retained"
+    }
+  ],
+  "unique_source_urls_preserved": true,
+  "other_chapters_unchanged": true
+}

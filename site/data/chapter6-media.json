@@ -1,0 +1,117 @@
+[
+  {
+    "id": "wps",
+    "status": "GENERATED_VISUAL",
+    "generator": "built-in imagegen",
+    "prompt": "Application scenario: presentation input. Panel 1: meeting presenter seated at a desk reviewing slides on the upper half of the half-folded PC and private speaker notes on the lower half; audience wall projector shows slides ONLY, no private notes. Panel 2: SAME presenter now standing beside audience and holding a phone with two large simple previous/next buttons; foldable PC stays on desk, audience watches. Panel 3: close view of phone feedback showing a small slide thumbnail and a visually checked slide indicator, consistent with projector and PC; speaker returns attention to audience. Make moving away from desk and bounded page navigation clear, no magic automatic prompting. White background, no wall of body text.",
+    "original_path": "[local archive path omitted]",
+    "asset": "assets/content-oct7/ch6-wps-storyboard.png",
+    "meaning": "Unvalidated proposal illustration, not an official product screenshot or user evidence",
+    "bytes": 1820448,
+    "sha256": "32e2a237c22a5a7561b9e1469f44bf35562828a1b0f1ba945c72410c75fdf991",
+    "pixels": [
+      1774,
+      887
+    ],
+    "used_in_report": true
+  },
+  {
+    "id": "paint",
+    "status": "GENERATED_VISUAL",
+    "generator": "built-in imagegen",
+    "prompt": "Application scenario: illustration tool input with a pen. Panel 1: artist selects a layer on a large UNFOLDED continuous flexible PC screen resting on a desk, looking at a partly coloured botanical drawing. Panel 2: close overhead view artist's right hand keeps a stylus on the unfolded large canvas while LEFT hand touches a phone laid beside it with a simple colour swatch strip and brush-size slider, visible exact division of hands. Panel 3: same plant canvas with brush preview, changed colour and one stroke visibly undoable; main screen stays unobstructed. Phone palette is our speculative optional intervention, not an official existing feature. No physical keyboard, no tablet pretending to be a PC, no split screen gap.",
+    "original_path": "[local archive path omitted]",
+    "asset": "assets/content-oct7/ch6-paint-storyboard.png",
+    "meaning": "Unvalidated proposal illustration, not an official product screenshot or user evidence",
+    "bytes": 2183573,
+    "sha256": "9981a189b5bc977cf63205882cc734188b13e3afaa35ca33984247a0a07d5c30",
+    "pixels": [
+      1774,
+      887
+    ],
+    "used_in_report": true
+  },
+  {
+    "id": "notes",
+    "status": "GENERATED_VISUAL",
+    "generator": "built-in imagegen",
+    "prompt": "Application scenario: meeting evidence capture and filing. Panel 1: note taker sits at meeting table with half-folded continuous-screen PC: upper region has agenda shapes, lower region has editable note lines and handwritten annotation. Panel 2: same person gets up to photograph a real whiteboard diagram using phone; PC remains on desk with the current note. Panel 3: close view of half-folded PC lower region shows a small photo capture queue with whiteboard thumbnail and a confirm-insert action next to existing note, upper agenda remains. Capture received and destination confirmed are different proposed states; avoid claiming automatic transcription or real app UI. Show one photo and check mark, no long text.",
+    "original_path": "[local archive path omitted]",
+    "asset": "assets/content-oct7/ch6-notes-storyboard.png",
+    "meaning": "Unvalidated proposal illustration, not an official product screenshot or user evidence",
+    "bytes": 1787118,
+    "sha256": "ec3ac92a93b28ab3d1c2084d573225b9b399ed9801839c6bba084cd6586daeeb",
+    "pixels": [
+      1774,
+      887
+    ],
+    "used_in_report": true
+  },
+  {
+    "id": "cad-v2",
+    "status": "GENERATED_VISUAL",
+    "generator": "built-in imagegen",
+    "prompt": "Create ONE landscape three-panel storyboard, wide 2:1 aspect ratio, three equal panels. This is a CROSS-DEVICE MOBILE AGENT concept: the smartphone is the INPUT AND AGENT CONTROL DEVICE and a folded PC executes the app. Show the smartphone clearly in panels 2 and 3, not merely sitting unused. Generic folded PC has ONE CONTINUOUS FLEXIBLE SCREEN bent in the middle, no hinge gap, no keyboard, upper 3D CAD bracket and lower 2D plan. Panel 1: right hand uses a stylus to select ONE bracket element on lower Fold screen, chosen geometry highlights red; paired smartphone on left side displays a matching object thumbnail and mm value. Panel 2: close up LEFT hand operating the phone's numeric keypad and short coarse/fine slider, right pen hand stays on PC drawing; chosen object identity thumbnail remains at top of phone. Parameter command arrow from phone to PC, changing selected bracket only. Panel 3: phone shows read-back value '16 mm', checked indicator and undo icon; PC shows actual changed 3D bracket and untouched surrounding geometry. Quiet sophisticated white/gray storyboard, people and hands realistic, muted red on interactions, no logos, no long text, only 01/02/03 panel numbers and '16 mm'. Schematic controls clearly speculative, not official app screenshots.",
+    "original_path": "[local archive path omitted]",
+    "asset": "assets/content-oct7/ch6-cad-v2-storyboard.png",
+    "meaning": "Cross-device Mobile Agent proposal, unvalidated and not an official UI",
+    "bytes": 1911741,
+    "sha256": "91fd6107f1d0af48272be9f1b66da19ad056c9f54213731e3278d8eeb4416332",
+    "pixels": [
+      1774,
+      887
+    ],
+    "used_in_report": true
+  },
+  {
+    "id": "edit-v3",
+    "status": "GENERATED_VISUAL",
+    "generator": "built-in imagegen edit",
+    "prompt": "Edit this cross-device storyboard. KEEP the three device/hand interaction scenes, phone acting as input to Fold PC, selection -> phone frame stepping -> PC split receipt. REMOVE ALL bottom caption paragraphs and the entire white caption strip; extend the desk/scene illustration naturally to the bottom. No replacement text, no titles, no readable text anywhere except tiny panel numbers 01/02/03 if needed. Make each foldable PC a SINGLE continuous flexible screen smoothly bent at midpoint with no separate-display seam or physical hinge gap; preserve preview and lower timeline as regions of that same screen. Do not change the phone control meanings, do not introduce new features. White/gray with restrained red, unvalidated concept.",
+    "reference_path": "[local archive path omitted]",
+    "original_path": "[local archive path omitted]",
+    "asset": "assets/content-oct7/ch6-edit-v3-storyboard.png",
+    "meaning": "Cross-device Mobile Agent hypothesis, not product evidence",
+    "bytes": 2055981,
+    "sha256": "9dba1b9f4b4adb50cff3a692eeaad8298d91996bb7cdd00d9e00db55b3f9e637",
+    "pixels": [
+      1774,
+      887
+    ],
+    "used_in_report": true
+  },
+  {
+    "id": "workbuddy-v3",
+    "status": "GENERATED_VISUAL",
+    "generator": "built-in imagegen edit",
+    "prompt": "Edit this 3-panel cross-device Mobile Agent storyboard. Preserve phones, selected paragraph, phone speech input to PC, candidate diff and phone confirmation AFTER big-screen review. REMOVE ALL top headings, explanatory text, all slogans at bottom and all readable UI words, use schematic gray text lines instead. Remove ALL numeric tokens from document and diff to avoid suggesting protected figures change. Only tiny panel numbers 01/02/03 may remain. Remove green highlights; gray and restrained red only. Make Fold ONE continuous flexible display with a smooth bend, no separate screen hinge gap, no keyboard. Keep phone-to-PC arrows and PC-to-phone feedback, don't invent real vendor branding or supported features. Fill unused caption whitespace with the scene, maintaining clear device roles.",
+    "reference_path": "[local archive path omitted]",
+    "original_path": "[local archive path omitted]",
+    "asset": "assets/content-oct7/ch6-workbuddy-v3-storyboard.png",
+    "meaning": "Cross-device Mobile Agent hypothesis, not product evidence",
+    "bytes": 1690456,
+    "sha256": "7f03fa4d6ff82a8946a0e7fff64ac08e1b751f494cbf956de2d632b2f8ff85d9",
+    "pixels": [
+      1774,
+      887
+    ],
+    "used_in_report": true
+  },
+  {
+    "id": "lifecycle-v2",
+    "status": "GENERATED_VISUAL",
+    "generator": "built-in imagegen edit",
+    "prompt": "Edit this cross-device Mobile Agent concept diagram. Preserve overall professional white/gray/red composition, central phone->object binding->Fold/cloud execution and RETURN status/result to phone. Fix bottom lifecycle steps: 04 INTERVENE goes beside returned status/decision card near the PHONE; 05 RESUME goes beside dashed path returning to PC for detailed review. Remove 'Plan ready' fake completion state and replace with neutral schematic status lines plus distinct stop square and separate undo arrow icon. Simplify all screen/card content to schematic gray lines and thumbnails, no long sentences, no UI words, no document titles, no fabricated progress percentage. ONLY readable labels allowed: '01 CAPTURE', '02 BIND', '03 EXECUTE', '04 INTERVENE', '05 RESUME'. Change all green confirmation colours to gray/red. Fold is one continuous flexible display with smooth bend. Clearly visualise phone intervention and continuation, not only a one-way send.",
+    "reference_path": "[local archive path omitted]",
+    "original_path": "[local archive path omitted]",
+    "asset": "assets/content-oct7/ch6-lifecycle-v2-storyboard.png",
+    "meaning": "Cross-device Mobile Agent hypothesis, not product evidence",
+    "bytes": 1327899,
+    "sha256": "b13e554d1066a6d8796dfb60893fcde563c983df8939303b2122b9b2198075d2",
+    "pixels": [
+      1774,
+      887
+    ],
+    "used_in_report": true
+  }
+]
