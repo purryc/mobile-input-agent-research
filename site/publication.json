@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-09",
   "scope": "public report, assets and public provenance; no raw local archives/QA/backups",
   "pages": {
     "index.html": {
-      "sha256": "6b0c7cff6bb12c85ea64bbf619eef29872ddc0d80e86969d87ba2750b9757105"
+      "sha256": "2cc2fcc3beded066e93beb56fb0574cb17d16fdd59c5cb1eca2d459df0c8b6fa"
     },
     "index.en.html": {
-      "sha256": "232cd5fed5a78c073fffa090a6d77ea4365cca3870150fa88616193ab05776a6"
+      "sha256": "2ffa7ec9718544ecb2af94d03fd80a25bc0c6faba23f86eb56b7763824da0900"
     },
     "historical-case-index.html": {
-      "sha256": "870c0bc160908c7074559a9d9cf3d5039b550c49ee78ba128e7de4f25dc17db8"
+      "sha256": "5066714f5c049d8c975bf55c7562c756a6994236eabcb4380e1178cfe1f28c3b"
     },
     "product-timeline.html": {
-      "sha256": "becf6ec99ba6aed74beb161e900251081f3151a5dcf10424fefc25b93e42c1b3"
+      "sha256": "448ac5d1adef2c1ab4daf4cb23ca35b0b956f7fae268a009e0071abd69d4f3ea"
     }
   }
 }

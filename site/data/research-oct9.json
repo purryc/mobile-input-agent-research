@@ -1,0 +1,226 @@
+{
+  "updated": "2026-10-09",
+  "evidence": "Documentation and public-source review; no authenticated API or device test",
+  "sources": [
+    {
+      "id": "wb-api",
+      "title": "WorkBuddy Open API",
+      "url": "https://open.workbuddy.cn/docs/openapi",
+      "kind": "Official developer documentation",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "wb-app",
+      "title": "WorkBuddy third-party application guide",
+      "url": "https://open.workbuddy.cn/docs/third-party-app",
+      "kind": "Official onboarding and authorization guide",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "ripple",
+      "title": "Tangent Ripple",
+      "url": "https://www.tangentwave.co.uk/product/ripple/",
+      "kind": "Official product and application compatibility",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "ripple-manual",
+      "title": "Ripple User Manual v1.00 rev3",
+      "url": "https://www.tangentwave.co.uk/download/ripple-user-manual-2/",
+      "kind": "Official manual, sections 9–11",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "element-vs",
+      "title": "Tangent Element-Vs",
+      "url": "https://www.tangentwave.co.uk/product/element-vs/",
+      "kind": "Official tablet companion software",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "bm",
+      "title": "DaVinci Resolve panels",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/panels",
+      "kind": "Official product overview",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "plaud",
+      "title": "Plaud NotePin",
+      "url": "https://global.plaud.ai/pages/plaud-notepin-wearable-ai-note-taker",
+      "kind": "Official original NotePin page; separate from NotePin S",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "xiaomi",
+      "title": "小米 AI 眼镜",
+      "url": "https://www.mi.com/prod/xiaomi-ai-glasses",
+      "kind": "Official product identity; dynamic detail page",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "xiaomi-ir",
+      "title": "Xiaomi 2025 Q2 results presentation",
+      "url": "https://ir.mi.com/static-files/738d0ea2-81ec-4339-9ee2-f5f0eb33904c",
+      "kind": "Official investor presentation, slide 19",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "rayneo",
+      "title": "RayNeo companion app",
+      "url": "https://apps.apple.com/cn/app/id6446012674",
+      "kind": "Vendor-authored App Store description and version history",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "rayneo-support",
+      "title": "RayNeo support",
+      "url": "https://www.rayneo.cn/support.html",
+      "kind": "Official companion software support",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "quark",
+      "title": "Quark AI Glasses S1 / G1",
+      "url": "https://www.alizila.com/alibaba-launches-new-quark-ai-glasses-series-in-china-deeply-integrated-with-qwen/",
+      "kind": "Alibaba corporate announcement, 2025-11-27; indexed full text read; direct fetch 403",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "xiaomi-display",
+      "title": "Xiaomi 智能家庭屏 Pro 8",
+      "url": "https://www.mi.com/xiaomi-smartdisplay-pro-8",
+      "kind": "Official product page and its public product content bundle",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "xiaodu",
+      "title": "小度官方旗舰店",
+      "url": "https://dumall.jd.com/",
+      "kind": "Brand storefront; verifies listed category/model only",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "edifier",
+      "title": "花再 Halo PixelBar 使用说明书",
+      "url": "https://cn-oss.edifier.com/Uploads/images/2025/06/17/2025061713502517501394251794.pdf",
+      "kind": "Official manual V1.0.1, 2025-06-03",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "claude",
+      "title": "Claude Code interactive mode",
+      "url": "https://code.claude.com/docs/en/interactive-mode",
+      "kind": "Official keyboard and context-specific control semantics",
+      "checked": "2026-10-09"
+    },
+    {
+      "id": "elgato",
+      "title": "Stream Deck system requirements",
+      "url": "https://help.elgato.com/hc/en-us/articles/34512594204049-Elgato-Stream-Deck-Software-System-Requirements",
+      "kind": "Official software requirements",
+      "checked": "2026-10-09"
+    }
+  ],
+  "media": [
+    {
+      "asset": "assets/content-oct9/blackmagic-micro-color.jpg",
+      "url": "https://images.blackmagicdesign.com/images/products/davinciresolve/panels/three-panels/davinci-resolve-micro-color-panel-lg.jpg?_v=1712657531",
+      "bytes": 82067,
+      "sha256": "b47974c8535fe240a9d4ef7f813f79977eea5c8ca7b27de9cd1f277d299cce51",
+      "used_in_report": true,
+      "evidence": "Official product imagery; not independent user evidence"
+    },
+    {
+      "asset": "assets/content-oct9/plaud-notepin.webp",
+      "url": "https://global.plaud.ai/cdn/shop/files/notepin-wear-style_0907cf5b-f70b-4769-a364-62f1cc999450.webp?v=1760662284&width=1600",
+      "bytes": 538615,
+      "sha256": "e296e5944c3727acb3e9e7a468b5e66873c2b8c2c5fb9155a7239fab242728a0",
+      "used_in_report": true,
+      "evidence": "Official product imagery; not independent user evidence"
+    },
+    {
+      "asset": "assets/content-oct9/plaud-notepin-trigger.webp",
+      "url": "https://global.plaud.ai/cdn/shop/files/PC-press-notepin-0929.webp?v=1761114943",
+      "bytes": 95147,
+      "sha256": "8f842a692187e7496a953bbcfa74a8d9eff574184f6641cbf71c04a9ab34c48a",
+      "used_in_report": false,
+      "evidence": "Official product imagery; not independent user evidence"
+    },
+    {
+      "asset": "assets/content-oct9/rayneo-phone-companion.jpg",
+      "url": "https://www.rayneo.cn/static/www/default/images/support/rayneoaipic.jpg",
+      "bytes": 836287,
+      "sha256": "79ee5c30293e2d19747ea8d2d8c0ea04ef383daad0d2bdc75e1baa5b1b1d9227",
+      "used_in_report": true,
+      "evidence": "Official product imagery; not independent user evidence"
+    },
+    {
+      "asset": "assets/content-oct9/tangent-ripple.png",
+      "url": "https://www.tangentwave.co.uk/wp-content/uploads/2016/09/product-ripple-dims.png",
+      "bytes": 6662,
+      "sha256": "9679615f302b63446ec3bc86ef24efac9d1c7d0a905a7ac8b906fa6b05da7800",
+      "used_in_report": true,
+      "evidence": "Official product imagery; not independent user evidence"
+    },
+    {
+      "asset": "assets/content-oct9/xiaomi-home-display.jpg",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomi-smartdisplay-pro-8575ed0/section-05.jpg",
+      "bytes": 333860,
+      "sha256": "f6f7a486d810df69d7a5b3032117ea84f680c47766b8b8690686314647e3cc52",
+      "used_in_report": true,
+      "evidence": "Official product imagery; not independent user evidence"
+    }
+  ],
+  "coverage": {
+    "history": "history-needs",
+    "products": "ai-hardware",
+    "users": "users-motivations",
+    "tasks": "task-control",
+    "trends": "generative-input",
+    "validation": "mobile-opportunities",
+    "audit": "references",
+    "overview": "overview",
+    "api": "deep-workbuddy"
+  },
+  "source_report": {
+    "title": "AI控制器需求挖掘报告",
+    "type": "User-supplied secondary research, original retained locally",
+    "sha256": "b8f0247358b1ff4e3adb822f4e6c99b246c0a5a5d861c968608548fc3508d45c",
+    "verified_sample_addition": 0
+  },
+  "deduplication": {
+    "retained_original_entries": [
+      "Codex Micro",
+      "WorkBuddy",
+      "VIOLOOP",
+      "Stream Deck",
+      "Loupedeck",
+      "Logitech MX",
+      "PLAUD Note / Note Pro",
+      "Rokid × WorkBuddy"
+    ],
+    "new_mechanisms": [
+      "Blackmagic Micro Color Panel continuous grading",
+      "Tangent Ripple and Element-Vs physical/tablet control",
+      "PLAUD NotePin wearable capture",
+      "RayNeo phone companion",
+      "Xiaomi / Quark model distinctions",
+      "Household displays and Halo PixelBar boundaries"
+    ]
+  },
+  "excluded_claims": [
+    "Untraceable market proportions, return rates and retention statistics",
+    "Esc frequency ranking",
+    "Generic hardware stop or blind diff approval",
+    "Driverless implies no host software",
+    "Uncited battery and wake-up statistics"
+  ],
+  "remaining_gaps": [
+    "No authenticated WorkBuddy API / HarmonyOS compatibility test",
+    "No traceable new owner sample",
+    "Quark direct media retrieval restricted",
+    "Xiaodu model unspecified in supplied report",
+    "WorkBuddy expiry and artifact URL documentation inconsistency requires vendor clarification"
+  ]
+}
