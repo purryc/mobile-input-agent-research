@@ -1,0 +1,14 @@
+/* Bibliography: source title and original link only. */
+.ia-report #references .section-head{display:block;margin-bottom:14px}
+.ia-report #references .reference-link-section{padding-top:12px;margin:12px 0 20px}
+.ia-report .reference-link-index{display:block;columns:3;column-gap:28px;list-style:none;padding:0;margin:10px 0}
+.ia-report .reference-link-index li{break-inside:avoid;margin:0;padding:7px 0;border-bottom:1px solid #eee;font-size:12px;line-height:1.55;overflow-wrap:anywhere}
+.ia-report .reference-link-index a{text-decoration:none}.ia-report .reference-link-index a:hover{text-decoration:underline}
+.ia-report .reference-number{color:#777;font-size:11px;margin-right:6px}
+.ia-report .reference-anchor{scroll-margin-top:calc(var(--report-nav-height,64px) + 20px)}
+.ia-report .reference-body-note{font-size:12px;line-height:1.6;color:#65666a;border-left:2px solid #ddd;padding-left:10px;margin:10px 0}
+.ia-report #reference-validation{margin-top:24px}.ia-report #reference-validation .ia-legacy-section{padding:10px 0}.ia-report #reference-validation .wrap{width:100%;max-width:100%}
+.ia-report #reference-technical{scroll-margin-top:calc(var(--report-nav-height,64px) + 20px)}
+@media(max-width:960px){.ia-report .reference-link-index{columns:2}}
+@media(max-width:600px){.ia-report .reference-link-index{columns:1}}
+@media print{.ia-report .reference-link-index{columns:2}.ia-report .reference-link-index li{break-inside:avoid}}

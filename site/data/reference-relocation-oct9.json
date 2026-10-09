@@ -1,0 +1,160 @@
+{
+  "index.html": {
+    "moved": [
+      {
+        "id": "architecture",
+        "destination": "generative-input"
+      },
+      {
+        "id": "reference-technical",
+        "destination": "deep-dives"
+      },
+      {
+        "id": "reference-validation",
+        "destination": "mobile-opportunities"
+      }
+    ],
+    "corrections": [
+      {
+        "item": "Codex Micro",
+        "destination": "deep-codex-micro"
+      },
+      {
+        "item": "S1",
+        "destination": "maker-01"
+      },
+      {
+        "item": "S2",
+        "destination": "maker-02"
+      },
+      {
+        "item": "S3",
+        "destination": "maker-03"
+      },
+      {
+        "item": "S4",
+        "destination": "maker-04"
+      },
+      {
+        "item": "S6",
+        "destination": "task-control"
+      },
+      {
+        "item": "S7",
+        "destination": "maker-07"
+      },
+      {
+        "item": "安全确认",
+        "destination": "generative-input"
+      },
+      {
+        "item": "VIOLOOP",
+        "destination": "deep-violoop"
+      },
+      {
+        "item": "Muse",
+        "destination": "muse-platform"
+      },
+      {
+        "item": "状态 / 通知 / 决策",
+        "destination": "task-control"
+      },
+      {
+        "item": "Apple View Annotations",
+        "destination": "deep-apple"
+      },
+      {
+        "item": "Googlebook",
+        "destination": "ai-software"
+      },
+      {
+        "item": "VirtualGamePad 项目身份",
+        "destination": "history-needs"
+      }
+    ],
+    "old_reference_characters": 55823,
+    "new_reference_characters": 12076,
+    "unique_link_count": 446,
+    "all_previous_ids_preserved": true,
+    "all_original_source_urls_preserved": true
+  },
+  "index.en.html": {
+    "moved": [
+      {
+        "id": "architecture",
+        "destination": "generative-input"
+      },
+      {
+        "id": "reference-technical",
+        "destination": "deep-dives"
+      },
+      {
+        "id": "reference-validation",
+        "destination": "mobile-opportunities"
+      }
+    ],
+    "corrections": [
+      {
+        "item": "Codex Micro",
+        "destination": "deep-codex-micro"
+      },
+      {
+        "item": "S1",
+        "destination": "maker-01"
+      },
+      {
+        "item": "S2",
+        "destination": "maker-02"
+      },
+      {
+        "item": "S3",
+        "destination": "maker-03"
+      },
+      {
+        "item": "S4",
+        "destination": "maker-04"
+      },
+      {
+        "item": "S6",
+        "destination": "task-control"
+      },
+      {
+        "item": "S7",
+        "destination": "maker-07"
+      },
+      {
+        "item": "Secure confirmation",
+        "destination": "generative-input"
+      },
+      {
+        "item": "VIOLOOP",
+        "destination": "deep-violoop"
+      },
+      {
+        "item": "Muse",
+        "destination": "muse-platform"
+      },
+      {
+        "item": "State / Notification / Decision",
+        "destination": "task-control"
+      },
+      {
+        "item": "Apple View Annotations",
+        "destination": "deep-apple"
+      },
+      {
+        "item": "Googlebook",
+        "destination": "ai-software"
+      },
+      {
+        "item": "VirtualGamePad project identity",
+        "destination": "history-needs"
+      }
+    ],
+    "old_reference_characters": 155019,
+    "new_reference_characters": 19917,
+    "unique_link_count": 446,
+    "all_previous_ids_preserved": true,
+    "all_original_source_urls_preserved": true
+  }
+}
