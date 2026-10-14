@@ -1,0 +1,115 @@
+/* Editorial changes are deliberately confined to these three reading sections.
+   The overview timeline, its controls, templates and shared styles are untouched. */
+#core {
+  max-width: 1240px;
+  margin: 44px auto 0 !important;
+  padding-top: 30px !important;
+  border-top: 1px solid #d7dadd !important;
+}
+#core > .wrap { width: 100%; max-width: 1240px; padding: 0; }
+#core .section-head { margin-bottom: 20px; }
+#core .section-head h3 { font-size: 28px; line-height: 1.35; margin-bottom: 10px; }
+#core .section-head p { font-size: 15px; color: #5c6067; max-width: 54rem; }
+#core .opening { font-size: 16px !important; line-height: 1.8; max-width: 62rem; margin: 0 0 20px; }
+#core .takeaway { margin: 20px 0 28px; padding: 18px 22px; line-height: 1.8; }
+#core .panel { padding: 20px; background: #fafafa; }
+#core .panel h3 { font-size: 20px; line-height: 1.4; margin: 8px 0 12px; }
+#core .panel p { font-size: 14px; line-height: 1.8; margin: 0; }
+#core .panel .editorial-sources { margin-top: 14px; font-size: 12px; }
+#core > .wrap > h3 { margin: 32px 0 14px; font-size: 22px; line-height: 1.4; }
+#core > .wrap > p { max-width: 64rem; line-height: 1.8; }
+#core .caption { margin: 12px 0 20px; }
+#core #oct9-overview { margin-top: 26px; padding: 16px 0; border-top: 1px solid #e3e4e6; }
+#core #oct9-overview p { margin: 0 0 8px; font-size: 13px; color: #5c6067; }
+#core .reference-body-note { margin: 10px 0; font-size: 13px; line-height: 1.7; }
+#core .table-wrap,
+#deep-dives .table-wrap,
+#trends .table-wrap { max-width: 100%; overflow-x: auto; }
+#deep-dives .ia-subsection > h3,
+#trends .ia-subsection > h3 { font-size: 25px; line-height: 1.4; margin-bottom: 16px; }
+#deep-comparison > h3:not(:first-child),
+#trends .ch6-section > h4,
+#validation h3,
+#architecture h4 { margin-top: 30px; margin-bottom: 12px; }
+#deep-comparison > p,
+#agent-state-comparison > p,
+#trends .ch6-section > p,
+#validation p,
+#architecture > .intro { max-width: 68rem; line-height: 1.8; }
+#deep-comparison .opening { font-size: 15px; margin: 18px 0 28px; }
+#deep-comparison #agent-state-comparison > h3 { font-size: 21px; line-height: 1.45; }
+#deep-comparison #agent-state-comparison { margin-top: 30px; }
+#core .editorial-table,
+#deep-comparison .editorial-table,
+#mobile-opportunities .editorial-table { width: 100%; line-height: 1.65; }
+#core .editorial-table th,
+#deep-comparison .editorial-table th,
+#mobile-opportunities .editorial-table th { background: #f3f3f4; text-align: left; }
+#core .editorial-table th,
+#core .editorial-table td,
+#deep-comparison .editorial-table th,
+#deep-comparison .editorial-table td,
+#mobile-opportunities .editorial-table th,
+#mobile-opportunities .editorial-table td { padding: 13px 15px; vertical-align: top; }
+#trends > .wrap > .research-brief { margin: 24px 0 34px; }
+#trends > .wrap > .research-brief h3 { font-size: 25px; line-height: 1.4; margin: 8px 0 14px; }
+#trends > .wrap > .research-brief > div > p:not(.eyebrow) { max-width: 53rem; line-height: 1.8; }
+#trends .ch6-finding { padding: 22px !important; }
+#trends .ch6-finding h4 { font-size: 20px; line-height: 1.45; margin: 0 0 16px; }
+#trends .ch6-finding > p { font-size: 14px; line-height: 1.8; margin: 10px 0; }
+#trends .ch6-finding > p > b { font-weight: 650; }
+#trends .ch6-finding .mini-sources { display: block; margin-top: 6px; line-height: 1.8; }
+#trends .ch6-finding .ch6-confidence { padding-top: 12px; margin-top: 16px; border-top: 1px solid #e1e2e5; font-size: 12px; }
+#trends .scenario-sheet h3 { line-height: 1.45; }
+#trends .scenario-sheet p { line-height: 1.8; }
+#mobile-opportunities > .ch6-study { padding-left: 24px; max-width: 68rem; }
+#mobile-opportunities > .ch6-study > li { padding-left: 4px; margin: 12px 0; line-height: 1.8; }
+#mobile-opportunities #oct9-validation { margin-top: 28px; padding-top: 20px; }
+#mobile-opportunities #reference-validation { margin-top: 32px; padding-top: 26px; }
+#mobile-opportunities #prior-validation { margin-top: 0; padding-top: 0; }
+#validation .section-head { margin-bottom: 16px; }
+#validation h3 { font-size: 21px; line-height: 1.45; }
+#validation .opening { font-size: 14px; color: #5c6067; }
+@media (max-width: 780px) {
+  #core { margin-top: 30px !important; padding-top: 24px !important; }
+  #core .section-head h3 { font-size: 24px; }
+  #core .grid.g3 { grid-template-columns: 1fr; gap: 14px; }
+  #core .panel { padding: 18px; }
+  #core .takeaway { padding: 16px; }
+  #core .opening { font-size: 15px !important; }
+  #core > .wrap > h3 { font-size: 21px; margin-top: 26px; }
+  #deep-dives .ia-subsection > h3,
+  #trends .ia-subsection > h3,
+  #trends > .wrap > .research-brief h3 { font-size: 22px; }
+  #trends .ch6-finding { padding: 18px !important; }
+  #trends .ch6-finding h4 { font-size: 19px; }
+  #core .editorial-table { min-width: 510px; }
+  #deep-comparison .editorial-table { min-width: 720px; }
+  #mobile-opportunities .editorial-table { min-width: 640px; }
+  #core .editorial-table th,
+  #core .editorial-table td,
+  #deep-comparison .editorial-table th,
+  #deep-comparison .editorial-table td,
+  #mobile-opportunities .editorial-table th,
+  #mobile-opportunities .editorial-table td { font-size: 13px; padding: 11px 12px; }
+}
+@media print {
+  #core { max-width: none; margin-top: 16px !important; padding-top: 16px !important; }
+  #core .table-wrap,
+  #deep-dives .table-wrap,
+  #trends .table-wrap { overflow: visible; }
+  #core .editorial-table,
+  #deep-comparison .editorial-table,
+  #mobile-opportunities .editorial-table { min-width: 0; width: 100%; }
+  #core .editorial-table th,
+  #core .editorial-table td,
+  #deep-comparison .editorial-table th,
+  #deep-comparison .editorial-table td,
+  #mobile-opportunities .editorial-table th,
+  #mobile-opportunities .editorial-table td { padding: 6px; font-size: 8pt; overflow-wrap: anywhere; }
+  #core h3,
+  #deep-dives h3,
+  #trends h3,
+  #trends h4 { break-after: avoid; }
+  #trends .ch6-finding { break-inside: avoid; }
+}
