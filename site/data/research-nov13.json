@@ -1,0 +1,32 @@
+{
+  "checked_date": "2026-11-13",
+  "scope": "TACO and TypAir product increment only; existing report retained",
+  "sources": [
+    "https://thetaco.ai/remote",
+    "https://thetaco.ai/",
+    "https://thetaco.ai/pricing",
+    "https://www.kickstarter.com/projects/taco-ai/the-natively-built-ai-voice-typing-remote/faqs",
+    "https://typair.mindrove.com/",
+    "https://www.indiegogo.com/en/projects/mindrove/typair-the-keyboard-you-wear/rewards",
+    "https://www.notebookcheck.net/TypAir-wearable-keyboard-turns-finger-gestures-into-text.1428917.0.html"
+  ],
+  "media": [
+    {
+      "file": "assets/content-nov13/taco-remote.webp",
+      "url": "https://thetaco.ai/static/media/video/V05-product-macro-poster.webp",
+      "sha256": "80f72a8742669f1b2606d13c182c5f4012be318a13cd03d7ee337ba0505b7e54",
+      "bytes": 71566,
+      "retrieved_at": "2026-11-13T19:59:07.747503+00:00",
+      "kind": "official promotional product image; not independent test"
+    },
+    {
+      "file": "assets/content-nov13/typair-wearable.jpg",
+      "url": "https://typair.mindrove.com/assets/typair-1722547b61cba764.jpg",
+      "sha256": "1722547b61cba764c5f790e5e56c52bbd107d2a03866d57a2b50d2261f51192e",
+      "bytes": 191274,
+      "retrieved_at": "2026-11-13T19:59:10.167987+00:00",
+      "kind": "official promotional product image; not independent test"
+    }
+  ],
+  "verification": "Public source review, not hardware hands-on testing"
+}
