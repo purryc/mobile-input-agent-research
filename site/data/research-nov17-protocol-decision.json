@@ -1,0 +1,66 @@
+{
+  "reviewed_at": "2026-11-17",
+  "topic": "A2UI 1.0 / Jev decision models",
+  "scope": "Public-source research and explicitly labeled application architecture proposal, not live integration",
+  "sources": [
+    {
+      "id": "P1",
+      "title": "A2UI 1.0 release · 2026-11-11",
+      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "type": "primary"
+    },
+    {
+      "id": "P2",
+      "title": "A2UI 1.0 protocol specification",
+      "url": "https://a2ui.org/specification/v1.0-a2ui/",
+      "type": "primary"
+    },
+    {
+      "id": "P3",
+      "title": "1.0 migration / evolution guide",
+      "url": "https://a2ui.org/specification/v1.0-evolution-guide/",
+      "type": "primary"
+    },
+    {
+      "id": "P4",
+      "title": "Inference formats and benchmark",
+      "url": "https://a2ui.org/concepts/inference-formats/",
+      "type": "primary"
+    },
+    {
+      "id": "P5",
+      "title": "A2UI roadmap",
+      "url": "https://a2ui.org/roadmap/",
+      "type": "primary"
+    },
+    {
+      "id": "P6",
+      "title": "Fast, reliable A2UI · 2026-10-27",
+      "url": "https://developers.googleblog.com/en/fast-reliable-a2ui/",
+      "type": "primary"
+    },
+    {
+      "id": "P7",
+      "title": "TypeSafe / Jev introduction",
+      "url": "https://docs.typesafe.ai/introduction",
+      "type": "primary"
+    },
+    {
+      "id": "P8",
+      "title": "jev2ui example repository",
+      "url": "https://github.com/dglazkov/jev2ui",
+      "type": "primary"
+    }
+  ],
+  "evidence_boundaries": [
+    "Protocol release is distinct from renderer migration.",
+    "Official SDK decision-model inference support is on roadmap.",
+    "Small demonstration and token benchmark are not local performance measurements.",
+    "Model confidence does not grant execution authority.",
+    "Original user-supplied article is not republished."
+  ],
+  "pages": [
+    "protocol-decision-models.html",
+    "protocol-decision-models.en.html"
+  ]
+}

@@ -3,17 +3,23 @@
   "scope": "public report, assets and public provenance; no raw local archives/QA/backups",
   "pages": {
     "index.html": {
-      "sha256": "1f39826b35eea8f05bd705235037c68b3a00b058e1a69d702ddac9162c2be360"
+      "sha256": "e03ace5305a85168a46b10dc56c984cda8518a2d12c6d31fe1d704e906e96481"
     },
     "index.en.html": {
-      "sha256": "c7555a9cbb53afdf5043944e900d782453ac918a725ee5ac1fb0970288cdc82b"
+      "sha256": "c364ba2bdd8ce1814c1e8515f6d62c385d9dc193a2f604cffc070f12e2f12b7b"
     },
     "historical-case-index.html": {
       "sha256": "328320e5d82d2ff59c122319e4dec27ba65ca9caf3a0214880f8f6751f6ee294"
     },
     "product-timeline.html": {
       "sha256": "67dd358622668a5191f477edc6bb28d5d5835fbfc7afc7e1e4f81044fe216486"
+    },
+    "protocol-decision-models.html": {
+      "sha256": "095dde923d3c4bb28dee0786db7b63e01731568e95937d68ee4e93a637b55be4"
+    },
+    "protocol-decision-models.en.html": {
+      "sha256": "232f0374c7910f4497d6ae082eedb65b19b16ad011f34d5749bfc0a30cea659c"
     }
   },
-  "incremental_scope": "Flic Cue and Phase bilingual sections, sources and attributed media; existing report retained"
+  "incremental_scope": "Flic Cue and Phase retained; added bilingual protocol/decision-model research, home-page links and public provenance"
 }
