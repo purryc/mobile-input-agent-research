@@ -1,0 +1,38 @@
+{
+  "checked_date": "2026-11-17",
+  "scope": "Phase incremental bilingual research; Flic Cue and existing sections retained",
+  "sources": [
+    {
+      "id": "PH1",
+      "title": "Product and roadmap",
+      "url": "https://www.pixelpawlabs.com/"
+    },
+    {
+      "id": "PH2",
+      "title": "Official press / media kit",
+      "url": "https://www.pixelpawlabs.com/press"
+    },
+    {
+      "id": "PH3",
+      "title": "Reservation terms and pricing snapshot",
+      "url": "https://www.pixelpawlabs.com/preorder"
+    },
+    {
+      "id": "PH4",
+      "title": "Official first-look video",
+      "url": "https://youtu.be/edVVvhHMx_A"
+    }
+  ],
+  "verification": "Official-source review only; roadmap not shipment; pricing inconsistencies disclosed; no native Agent SDK established",
+  "media": [
+    {
+      "file": "assets/content-nov17/phase-modes.jpg",
+      "url": "https://www.pixelpawlabs.com/BANNER2_Fallback.jpg",
+      "sha256": "f33bdaf527488259e45a692db94f8950304124a9a2db1d76996d5fe5954c2f1d",
+      "bytes": 106018,
+      "attribution": "Pixelpaw Labs official promotional image; copyright retained"
+    }
+  ],
+  "media_kit_entry": "https://www.pixelpawlabs.com/press",
+  "official_video": "https://youtu.be/edVVvhHMx_A"
+}

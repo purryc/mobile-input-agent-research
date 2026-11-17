@@ -9,3 +9,5 @@ The public report preserves source links and evidence boundaries. Proposed scena
 ## Latest research addition · 2026-11-17
 
 [Flic Cue 中文](https://purryc.github.io/mobile-input-agent-research/#flic-cue-nov17) · [English](https://purryc.github.io/mobile-input-agent-research/index.en.html#flic-cue-nov17) · [Source and media resources](site/data/research-nov17-flic-cue.json). Official-source review distinguishes crowdfunding, experimental desktop features and planned shipment.
+
+[Phase 中文](https://purryc.github.io/mobile-input-agent-research/#phase-nov17) · [English](https://purryc.github.io/mobile-input-agent-research/index.en.html#phase-nov17) · [Source/media resources](site/data/research-nov17-phase.json). Manufacturer roadmap and reservation claims are distinguished from verified shipment.

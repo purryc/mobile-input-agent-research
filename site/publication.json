@@ -3,10 +3,10 @@
   "scope": "public report, assets and public provenance; no raw local archives/QA/backups",
   "pages": {
     "index.html": {
-      "sha256": "cbc7d2b4d2529b4dc5fcc8da2eb7580618c5c80896ef2eb6b2402658df2758f7"
+      "sha256": "1f39826b35eea8f05bd705235037c68b3a00b058e1a69d702ddac9162c2be360"
     },
     "index.en.html": {
-      "sha256": "20e7799c073c51f629eda752b52b5b0f20da02578bfe18f71f164fe0e8cd2c00"
+      "sha256": "c7555a9cbb53afdf5043944e900d782453ac918a725ee5ac1fb0970288cdc82b"
     },
     "historical-case-index.html": {
       "sha256": "328320e5d82d2ff59c122319e4dec27ba65ca9caf3a0214880f8f6751f6ee294"
@@ -15,5 +15,5 @@
       "sha256": "67dd358622668a5191f477edc6bb28d5d5835fbfc7afc7e1e4f81044fe216486"
     }
   },
-  "incremental_scope": "Flic Cue bilingual section, primary sources and attributed media; existing material retained"
+  "incremental_scope": "Flic Cue and Phase bilingual sections, sources and attributed media; existing report retained"
 }
