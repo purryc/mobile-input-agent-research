@@ -1,0 +1,63 @@
+{
+  "checked_date": "2026-11-17",
+  "scope": "Flic Cue incremental bilingual research; existing report retained",
+  "sources": [
+    {
+      "id": "FC1",
+      "title": "Launch · 2026-11-04",
+      "url": "https://www.shortcutlabs.com/news/flic-cue-an-ai-voice-button-that-keeps-your-phone-in-your-pocket-launches"
+    },
+    {
+      "id": "FC2",
+      "title": "Funding / pricing · 2026-11-06",
+      "url": "https://www.shortcutlabs.com/news/flic-cue-reaches-its-kickstarter-goal-in-four-minutes"
+    },
+    {
+      "id": "FC3",
+      "title": "Trial production / Home Assistant · 2026-11-09",
+      "url": "https://www.shortcutlabs.com/news/flic-is-now-built-into-home-assistant"
+    },
+    {
+      "id": "FC4",
+      "title": "Campaign FAQ",
+      "url": "https://www.kickstarter.com/projects/shortcutlabs/flic-cue/faqs"
+    },
+    {
+      "id": "FC5",
+      "title": "Experimental desktop interactions",
+      "url": "https://flic.io/blog/flic-cue-on-the-desktop-talk-shake-turn"
+    },
+    {
+      "id": "FC6",
+      "title": "Official exterior CAD / STL resources",
+      "url": "https://flic.io/3d-print-community"
+    },
+    {
+      "id": "FC7",
+      "title": "Existing Flic 2 / Duo developer documentation",
+      "url": "https://github.com/50ButtonsEach/flic2-documentation"
+    },
+    {
+      "id": "FC8",
+      "title": "Desktop demonstration video",
+      "url": "https://www.youtube.com/watch?v=BsSTbleas8E"
+    }
+  ],
+  "verification": "Official-source review; no hardware test. Desktop features experimental; planned shipment is not delivered availability.",
+  "media": [
+    {
+      "file": "assets/content-nov17/flic-cue-white.jpg",
+      "url": "https://www.shortcutlabs.com/images/news/flic-cue-kickstarter-launch.jpg",
+      "sha256": "22ea779962aceb5184bec4dfd899e96c2cf250fc8db4cfacfb483cbc906341cd",
+      "bytes": 272105,
+      "kind": "Official promotional material; copyright Shortcut Labs; not independent test"
+    },
+    {
+      "file": "assets/content-nov17/flic-cue-desktop.png",
+      "url": "https://static2.shortcutlabs.com/wp-content/uploads/2026/11/01-demo-decoded-1024x489.png",
+      "sha256": "2aa3649229c15ad3b5ce577b86e1af5ca9ab5d6489669d116209bab8a64bf39b",
+      "bytes": 104495,
+      "kind": "Official promotional material; copyright Shortcut Labs; not independent test"
+    }
+  ]
+}
