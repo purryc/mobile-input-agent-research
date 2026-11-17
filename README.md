@@ -13,3 +13,8 @@ The public report preserves source links and evidence boundaries. Proposed scena
 [Phase 中文](https://purryc.github.io/mobile-input-agent-research/#phase-nov17) · [English](https://purryc.github.io/mobile-input-agent-research/index.en.html#phase-nov17) · [Source/media resources](site/data/research-nov17-phase.json). Manufacturer roadmap and reservation claims are distinguished from verified shipment.
 
 [A2UI 1.0 + Jev 中文](https://purryc.github.io/mobile-input-agent-research/protocol-decision-models.html) · [English](https://purryc.github.io/mobile-input-agent-research/protocol-decision-models.en.html) · [Primary-source manifest](site/data/research-nov17-protocol-decision.json). Protocol migration corrections and a clearly labeled Mobile Input Agent decision-layer proposal; no live model integration.
+
+## HIDAgent × VIOLOOP update (2026-11-17)
+
+- [中文比较](https://purryc.github.io/mobile-input-agent-research/hidagent-violoop.html) / [English](https://purryc.github.io/mobile-input-agent-research/hidagent-violoop.en.html)
+- [Primary resource index](site/data/research-nov17-hidagent-violoop.json). Distinguishes the formal paper, maintained implementation and vendor claims.

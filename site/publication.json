@@ -3,10 +3,10 @@
   "scope": "public report, assets and public provenance; no raw local archives/QA/backups",
   "pages": {
     "index.html": {
-      "sha256": "e03ace5305a85168a46b10dc56c984cda8518a2d12c6d31fe1d704e906e96481"
+      "sha256": "e9f3f2963f2714dbb852c0b6cee4909837a256c3d9c30dfc6d9d2a2df0afc6e5"
     },
     "index.en.html": {
-      "sha256": "c364ba2bdd8ce1814c1e8515f6d62c385d9dc193a2f604cffc070f12e2f12b7b"
+      "sha256": "c93524215918ebc2aff73f09b09543f1702a240edf8ac2ac6e0c949889140bc9"
     },
     "historical-case-index.html": {
       "sha256": "328320e5d82d2ff59c122319e4dec27ba65ca9caf3a0214880f8f6751f6ee294"
@@ -19,7 +19,13 @@
     },
     "protocol-decision-models.en.html": {
       "sha256": "232f0374c7910f4497d6ae082eedb65b19b16ad011f34d5749bfc0a30cea659c"
+    },
+    "hidagent-violoop.html": {
+      "sha256": "c5d35ec2776d14aeee664704913fdcd1232ef11c693291e4529a727776693b54"
+    },
+    "hidagent-violoop.en.html": {
+      "sha256": "7810431b151a0ba4d4216e584d239a0b59a7f8246161793904fbbe44ea551eb6"
     }
   },
-  "incremental_scope": "Flic Cue and Phase retained; added bilingual protocol/decision-model research, home-page links and public provenance"
+  "incremental_scope": "Flic Cue and Phase retained; added bilingual protocol/decision-model research, home-page links and public provenance; added HIDAgent/VIOLOOP bilingual comparison and primary resource index"
 }

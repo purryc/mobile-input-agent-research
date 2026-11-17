@@ -1,0 +1,34 @@
+{
+  "reviewed": "2026-11-17",
+  "topic": "HIDAgent and Bvio Tech VIOLOOP",
+  "sources": [
+    {
+      "id": "hid-paper",
+      "url": "https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2026/hidagent.pdf",
+      "type": "peer-reviewed paper",
+      "doi": "10.1145/3830398.3830721",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "hid-code",
+      "url": "https://github.com/CMUBigLab/hidagent",
+      "type": "maintained code; differs from paper calibration",
+      "license": "MIT"
+    },
+    {
+      "id": "vio-site",
+      "url": "https://violoop.ai/",
+      "type": "vendor claims"
+    },
+    {
+      "id": "vio-faq",
+      "url": "https://www.kickstarter.com/projects/bvio/violoop-plug-in-ai-for-your-computer/faqs",
+      "type": "vendor FAQ; discrepancies with homepage retained"
+    }
+  ],
+  "comparison_pages": [
+    "hidagent-violoop.html",
+    "hidagent-violoop.en.html"
+  ],
+  "evidence_boundary": "No independent hardware test or VIOLOOP security audit performed; research implications are proposals."
+}
